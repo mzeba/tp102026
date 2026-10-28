@@ -1,21 +1,12 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+from django.db.models import Q
+
+from app.models import Author, Book
 
 # Create your views here.
 
-HTML = """
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Home Page</title>
-</head>
-<body>
-    <h1>Welcome to the Home Page</h1>
-    <p>This is a simple Django application.</p>
-</body>
-</html>
-"""
-
 
 def home(request):
-    return HttpResponse(HTML)
+    authors = Author.objects.all()
+    return render(request, "home.html", context={"authors": authors})
