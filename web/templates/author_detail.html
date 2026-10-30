@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block title %}{{ author.firstname }} {{ author.lastname }}{% endblock %}
+
+{% block content %}
+    <a href="{% url 'home' %}" class="back">← Tous les auteurs</a>
+
+    <h1>{{ author.firstname }} {{ author.lastname }}</h1>
+    <p class="subtitle">Auteur</p>
+
+    <dl class="details">
+        <dt>Date de naissance</dt>
+        <dd>{{ author.birthdate|date:"d F Y" }}</dd>
+        <dt>Email</dt>
+        <dd><a href="mailto:{{ author.email }}">{{ author.email }}</a></dd>
+    </dl>
+
+    <h2>Livres ({{ books|length }})</h2>
+    {% if books %}
+        <div class="grid">
+            {% for book in books %}
+                <a href="{% url 'book_detail' book.pk %}" class="card">
+                    <h3>{{ book.title }}</h3>
+                    <p>Publié le {{ book.publication_date|date:"d F Y" }}</p>
+                </a>
+            {% endfor %}
+        </div>
+    {% else %}
+        <p class="empty">Cet auteur n'a encore aucun livre.</p>
+    {% endif %}
+{% endblock %}

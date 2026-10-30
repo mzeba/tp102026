@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block title %}Livres{% endblock %}
+
+{% block content %}
+    <h1>Livres</h1>
+    <p class="subtitle">{{ books|length }} livre{{ books|length|pluralize }}</p>
+
+    <form method="get" class="toolbar">
+        <input type="search" name="q" value="{{ query }}" placeholder="Titre, auteur ou ISBN…" aria-label="Rechercher un livre">
+        <button type="submit" class="btn">Rechercher</button>
+        {% if query %}<a href="{% url 'book_list' %}" class="btn-link">Effacer</a>{% endif %}
+    </form>
+
+    {% if books %}
+        <div class="grid">
+            {% for book in books %}
+                <a href="{% url 'book_detail' book.pk %}" class="card">
+                    <h2>{{ book.title }}</h2>
+                    <p>{{ book.author.firstname }} {{ book.author.lastname }}</p>
+                    <span class="badge">{{ book.publication_date|date:"Y" }}</span>
+                </a>
+            {% endfor %}
+        </div>
+    {% else %}
+        <p class="empty">Aucun livre trouvé.</p>
+    {% endif %}
+{% endblock %}

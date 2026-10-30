@@ -1,15 +1,28 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Home Page</title>
-</head>
-<body>
-    <h1>Liste des auteurs</h1>
-    <p>Voici la liste de tous les auteurs :</p>
-    <ol>
-        {% for author in authors %}
-            <li>{{ author.firstname }} {{ author.lastname }}</li>
-        {% endfor %}
-    </ol>
-</body>
-</html>
+{% extends "base.html" %}
+
+{% block title %}Auteurs{% endblock %}
+
+{% block content %}
+    <h1>Auteurs</h1>
+    <p class="subtitle">{{ authors|length }} auteur{{ authors|length|pluralize }}</p>
+
+    <form method="get" class="toolbar" role="search" aria-label="Rechercher un auteur">
+        <input type="search" name="q" value="{{ query }}" placeholder="Rechercher un auteur…" aria-label="Rechercher un auteur">
+        <button type="submit" class="btn">Rechercher</button>
+        {% if query %}<a href="{% url 'home' %}" class="btn-link">Effacer</a>{% endif %}
+    </form>
+
+    {% if authors %}
+        <div class="grid">
+            {% for author in authors %}
+                <a href="{% url 'author_detail' author.pk %}" class="card">
+                    <h2>{{ author.firstname }} {{ author.lastname }}</h2>
+                    <p>Né(e) le {{ author.birthdate|date:"d F Y" }}</p>
+                    <span class="badge">{{ author.book_count }} livre{{ author.book_count|pluralize }}</span>
+                </a>
+            {% endfor %}
+        </div>
+    {% else %}
+        <p class="empty">Aucun auteur trouvé.</p>
+    {% endif %}
+{% endblock %}

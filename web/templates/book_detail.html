@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}{{ book.title }}{% endblock %}
+
+{% block content %}
+    <a href="{% url 'book_list' %}" class="back">← Tous les livres</a>
+
+    <h1>{{ book.title }}</h1>
+    <p class="subtitle">
+        par <a href="{% url 'author_detail' book.author.pk %}">{{ book.author.firstname }} {{ book.author.lastname }}</a>
+    </p>
+
+    <dl class="details">
+        <dt>Date de publication</dt>
+        <dd>{{ book.publication_date|date:"d F Y" }}</dd>
+        <dt>ISBN</dt>
+        <dd>{{ book.isbn|default:"—" }}</dd>
+    </dl>
+
+    <h2>Résumé</h2>
+    {% if book.summary %}
+        <div class="summary">{{ book.summary }}</div>
+    {% else %}
+        <p class="empty">Aucun résumé disponible.</p>
+    {% endif %}
+{% endblock %}

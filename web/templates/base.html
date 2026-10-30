@@ -1,0 +1,31 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}Accueil{% endblock %} · Bibliothèque</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    {% with current=request.resolver_match.url_name %}
+    <header class="site-header">
+        <div class="container">
+            <a href="{% url 'home' %}" class="brand">📚 Bibliothèque</a>
+            <nav class="nav">
+                <a href="{% url 'home' %}" {% if current == 'home' or current == 'author_detail' %}class="active"{% endif %}>Auteurs</a>
+                <a href="{% url 'book_list' %}" {% if current == 'book_list' or current == 'book_detail' %}class="active"{% endif %}>Livres</a>
+            </nav>
+        </div>
+    </header>
+    {% endwith %}
+
+    <main class="container">
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="site-footer">
+        TP Django — Gestion de bibliothèque
+    </footer>
+</body>
+</html>
