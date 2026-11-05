@@ -3,6 +3,13 @@ from django.core.paginator import Paginator
 from django.shortcuts import render, get_object_or_404, redirect
 from django.db.models import Q, Count
 from django.urls import reverse
+from django.views.generic import (
+    ListView,
+    DetailView,
+    CreateView,
+    UpdateView,
+    DeleteView,
+)
 
 from app.forms import AuthorForm, BookForm
 from app.models import Author, Book
@@ -25,34 +32,40 @@ def paginate(request, queryset):
 def index(request):
     return redirect("home")
 
-def home(request):
-    query = request.GET.get("q", "").strip()
-    authors = Author.objects.annotate(book_count=Count("books")).order_by(
-        "lastname", "firstname"
-    )
-    if query:
-        authors = authors.filter(
-            Q(firstname__icontains=query) | Q(lastname__icontains=query)
-        )
-    page_obj, page_range = paginate(request, authors)
-    return render(
-        request,
-        "home.html",
-        context={
-            "authors": page_obj,
-            "page_obj": page_obj,
-            "page_range": page_range,
-            "query": query,
-        },
-    )
+
+class AuthorListView(ListView):
+    model = Author
+    template_name = "home.html"
+    context_object_name = "authors"
+    ordering = ["lastname", "firstname"]
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        page_obj, page_range = paginate(self.request, context["authors"])
+        context["authors"] = page_obj
+        context["page_range"] = page_range
+        context["query"] = self.request.GET.get("q", "").strip()
+        return context
+
+    def get_queryset(self):
+        query = self.request.GET.get("q", "").strip()
+        queryset = super().get_queryset().annotate(book_count=Count("books"))
+        if query:
+            queryset = queryset.filter(
+                Q(firstname__icontains=query) | Q(lastname__icontains=query)
+            )
+        return queryset
 
 
-def author_detail(request, pk):
-    author = get_object_or_404(Author, pk=pk)
-    books = author.books.order_by("-publication_date")
-    return render(
-        request, "author_detail.html", context={"author": author, "books": books}
-    )
+class AuthorDetailView(DetailView):
+    model = Author
+    template_name = "author_detail.html"
+    context_object_name = "author"
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context["books"] = self.object.books.order_by("-publication_date")
+        return context
 
 
 def author_create(request):
