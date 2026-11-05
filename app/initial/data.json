@@ -1,0 +1,3477 @@
+[
+    {
+        "firstname": "Chinua",
+        "lastname": "Achebe",
+        "birthdate": "1930-11-16",
+        "email": "chinua.achebe@example.com",
+        "books": [
+            {
+                "title": "Things Fall Apart",
+                "publication_date": "1958-01-01",
+                "summary": "Okonkwo, guerrier respecté d'un village igbo, voit son monde basculer avec l'arrivée des missionnaires et de l'administration coloniale britannique."
+            },
+            {
+                "title": "No Longer at Ease",
+                "publication_date": "1960-01-01",
+                "summary": "Obi Okonkwo, petit-fils du héros de Things Fall Apart, revient d'Angleterre pour travailler dans l'administration à Lagos et se heurte à la corruption."
+            },
+            {
+                "title": "Arrow of God",
+                "publication_date": "1964-01-01",
+                "summary": "Ezeulu, grand prêtre d'un dieu igbo, s'oppose à la fois à son peuple et aux autorités coloniales."
+            },
+            {
+                "title": "A Man of the People",
+                "publication_date": "1966-01-01",
+                "summary": "Odili, jeune enseignant, s'oppose à un ministre démagogue et corrompu."
+            },
+            {
+                "title": "Girls at War and Other Stories",
+                "publication_date": "1972-01-01",
+                "summary": "Recueil de nouvelles, dont plusieurs sur la guerre du Biafra."
+            },
+            {
+                "title": "Anthills of the Savannah",
+                "publication_date": "1987-01-01",
+                "summary": "Trois amis d'enfance occupent les plus hautes fonctions d'un État ouest-africain fictif dirigé par un dictateur."
+            },
+            {
+                "title": "There Was a Country",
+                "publication_date": "2012-01-01",
+                "summary": "Mémoires de l'auteur sur la guerre du Biafra."
+            }
+        ]
+    },
+    {
+        "firstname": "Ngũgĩ",
+        "lastname": "wa Thiong'o",
+        "birthdate": "1938-01-05",
+        "email": "ngugi.wathiongo@example.com",
+        "books": [
+            {
+                "title": "Weep Not, Child",
+                "publication_date": "1964-01-01",
+                "summary": "Njoroge, jeune garçon kikuyu, rêve de faire des études alors que la révolte des Mau Mau déchire le Kenya colonial."
+            },
+            {
+                "title": "The River Between",
+                "publication_date": "1965-01-01",
+                "summary": "Deux villages kikuyu séparés par une rivière s'affrontent autour de la tradition et du christianisme."
+            },
+            {
+                "title": "A Grain of Wheat",
+                "publication_date": "1967-01-01",
+                "summary": "À la veille de l'indépendance du Kenya, les habitants d'un village affrontent les trahisons de la période de l'état d'urgence."
+            },
+            {
+                "title": "Petals of Blood",
+                "publication_date": "1977-01-01",
+                "summary": "Une enquête sur un triple meurtre révèle les désillusions du Kenya après l'indépendance."
+            },
+            {
+                "title": "Devil on the Cross",
+                "publication_date": "1980-01-01",
+                "summary": "Roman écrit en prison sur du papier toilette : une satire du capitalisme néocolonial au Kenya."
+            },
+            {
+                "title": "Decolonising the Mind",
+                "publication_date": "1986-01-01",
+                "summary": "Essai sur la langue et la décolonisation de la littérature africaine."
+            },
+            {
+                "title": "Matigari",
+                "publication_date": "1986-01-01",
+                "summary": "Un ancien combattant de la liberté sort de la forêt et réclame justice dans le Kenya indépendant."
+            },
+            {
+                "title": "Wizard of the Crow",
+                "publication_date": "2006-01-01",
+                "summary": "Satire d'un dictateur dans la république imaginaire d'Aburĩria."
+            }
+        ]
+    },
+    {
+        "firstname": "Wole",
+        "lastname": "Soyinka",
+        "birthdate": "1934-07-13",
+        "email": "wole.soyinka@example.com",
+        "books": [
+            {
+                "title": "A Dance of the Forests",
+                "publication_date": "1963-01-01",
+                "summary": "Pièce de théâtre écrite pour l'indépendance du Nigeria."
+            },
+            {
+                "title": "The Lion and the Jewel",
+                "publication_date": "1963-01-01",
+                "summary": "Pièce de théâtre : un vieux chef et un jeune instituteur se disputent la belle Sidi."
+            },
+            {
+                "title": "The Interpreters",
+                "publication_date": "1965-01-01",
+                "summary": "Un groupe de jeunes intellectuels nigérians revenus de l'étranger cherche sa place dans la société de Lagos et d'Ibadan."
+            },
+            {
+                "title": "The Man Died",
+                "publication_date": "1972-01-01",
+                "summary": "Récit de la détention de l'auteur pendant la guerre du Biafra."
+            },
+            {
+                "title": "Season of Anomy",
+                "publication_date": "1973-01-01",
+                "summary": "Ofeyi, artiste engagé, traverse un pays en proie aux massacres à la recherche de sa compagne disparue."
+            },
+            {
+                "title": "Death and the King's Horseman",
+                "publication_date": "1975-01-01",
+                "summary": "Pièce de théâtre : l'administration coloniale empêche le cavalier d'un roi yoruba défunt d'accomplir son suicide rituel."
+            },
+            {
+                "title": "Aké: The Years of Childhood",
+                "publication_date": "1981-01-01",
+                "summary": "Récit autobiographique de l'enfance de l'auteur à Abeokuta, dans le Nigeria des années 1930 et 1940."
+            },
+            {
+                "title": "Chronicles from the Land of the Happiest People on Earth",
+                "publication_date": "2021-01-01",
+                "summary": "Satire de la corruption politique et religieuse au Nigeria."
+            }
+        ]
+    },
+    {
+        "firstname": "Ahmadou",
+        "lastname": "Kourouma",
+        "birthdate": "1927-11-24",
+        "email": "ahmadou.kourouma@example.com",
+        "books": [
+            {
+                "title": "Les Soleils des indépendances",
+                "publication_date": "1968-01-01",
+                "summary": "Fama, prince malinké déchu, vit amèrement la perte de ses privilèges dans l'Afrique des indépendances."
+            },
+            {
+                "title": "Monnè, outrages et défis",
+                "publication_date": "1990-01-01",
+                "summary": "Le règne de Djigui, roi de Soba, traverse un siècle de colonisation française."
+            },
+            {
+                "title": "En attendant le vote des bêtes sauvages",
+                "publication_date": "1998-01-01",
+                "summary": "Au cours d'une veillée de chasseurs, le récit de la vie d'un dictateur africain pendant la guerre froide."
+            },
+            {
+                "title": "Allah n'est pas obligé",
+                "publication_date": "2000-01-01",
+                "summary": "Birahima, enfant-soldat, raconte son errance dans les guerres civiles du Liberia et de la Sierra Leone."
+            },
+            {
+                "title": "Quand on refuse on dit non",
+                "publication_date": "2004-01-01",
+                "summary": "Suite posthume d'Allah n'est pas obligé : Birahima en Côte d'Ivoire en guerre."
+            }
+        ]
+    },
+    {
+        "firstname": "Mariama",
+        "lastname": "Bâ",
+        "birthdate": "1929-04-17",
+        "email": "mariama.ba@example.com",
+        "books": [
+            {
+                "title": "Une si longue lettre",
+                "publication_date": "1979-01-01",
+                "summary": "Ramatoulaye, devenue veuve, écrit à son amie Aïssatou et revient sur sa vie de femme face à la polygamie."
+            },
+            {
+                "title": "Un chant écarlate",
+                "publication_date": "1981-01-01",
+                "summary": "Le mariage d'Ousmane, Sénégalais, et de Mireille, Française, à l'épreuve des différences culturelles."
+            }
+        ]
+    },
+    {
+        "firstname": "Camara",
+        "lastname": "Laye",
+        "birthdate": "1928-01-01",
+        "email": "camara.laye@example.com",
+        "books": [
+            {
+                "title": "L'Enfant noir",
+                "publication_date": "1953-01-01",
+                "summary": "Récit autobiographique de l'enfance de l'auteur en Haute-Guinée, de Kouroussa à Conakry."
+            },
+            {
+                "title": "Le Regard du roi",
+                "publication_date": "1954-01-01",
+                "summary": "Clarence, un Européen désargenté, cherche à entrer au service d'un roi africain au cours d'un voyage initiatique."
+            },
+            {
+                "title": "Dramouss",
+                "publication_date": "1966-01-01",
+                "summary": "Suite de L'Enfant noir : Fatoman revient en Guinée après ses études en France et découvre un pays menacé par un pouvoir autoritaire."
+            },
+            {
+                "title": "Le Maître de la parole",
+                "publication_date": "1978-01-01",
+                "summary": "L'épopée de Soundjata Keïta, fondateur de l'empire du Mali, recueillie auprès d'un griot."
+            }
+        ]
+    },
+    {
+        "firstname": "Cheikh Hamidou",
+        "lastname": "Kane",
+        "birthdate": "1928-04-02",
+        "email": "cheikh.kane@example.com",
+        "books": [
+            {
+                "title": "L'Aventure ambiguë",
+                "publication_date": "1961-01-01",
+                "summary": "Samba Diallo, formé à l'école coranique puis à l'école française, se retrouve déchiré entre deux cultures."
+            },
+            {
+                "title": "Les Gardiens du temple",
+                "publication_date": "1995-01-01",
+                "summary": "Dans un pays sahélien indépendant, intellectuels et paysans cherchent à concilier tradition et modernité."
+            }
+        ]
+    },
+    {
+        "firstname": "Mongo",
+        "lastname": "Beti",
+        "birthdate": "1932-06-30",
+        "email": "mongo.beti@example.com",
+        "books": [
+            {
+                "title": "Ville cruelle",
+                "publication_date": "1954-01-01",
+                "summary": "Publié sous le pseudonyme d'Eza Boto : Banda, jeune paysan, se fait voler sa récolte de cacao à la ville."
+            },
+            {
+                "title": "Le Pauvre Christ de Bomba",
+                "publication_date": "1956-01-01",
+                "summary": "La tournée d'un missionnaire dans l'arrière-pays camerounais, racontée par son jeune boy."
+            },
+            {
+                "title": "Mission terminée",
+                "publication_date": "1957-01-01",
+                "summary": "Jean-Marie Medza, jeune étudiant, est chargé de ramener au village l'épouse en fuite d'un parent."
+            },
+            {
+                "title": "Le Roi miraculé",
+                "publication_date": "1958-01-01",
+                "summary": "La conversion au christianisme d'un chef polygame bouleverse l'équilibre de son village."
+            },
+            {
+                "title": "Main basse sur le Cameroun",
+                "publication_date": "1972-01-01",
+                "summary": "Essai sur la répression au Cameroun, longtemps censuré en France."
+            },
+            {
+                "title": "Perpétue et l'habitude du malheur",
+                "publication_date": "1974-01-01",
+                "summary": "Un homme enquête sur la mort de sa sœur Perpétue, mariée de force."
+            },
+            {
+                "title": "Remember Ruben",
+                "publication_date": "1974-01-01",
+                "summary": "Le parcours de Mor-Zamba à travers les luttes pour l'indépendance du Cameroun."
+            },
+            {
+                "title": "Trop de soleil tue l'amour",
+                "publication_date": "1999-01-01",
+                "summary": "Polar satirique dans une capitale africaine corrompue."
+            }
+        ]
+    },
+    {
+        "firstname": "Ferdinand",
+        "lastname": "Oyono",
+        "birthdate": "1929-09-14",
+        "email": "ferdinand.oyono@example.com",
+        "books": [
+            {
+                "title": "Le Vieux Nègre et la Médaille",
+                "publication_date": "1956-01-01",
+                "summary": "Méka, vieil homme qui a tout donné aux colons, est décoré puis humilié."
+            },
+            {
+                "title": "Une vie de boy",
+                "publication_date": "1956-01-01",
+                "summary": "Toundi, jeune boy au service du commandant, découvre l'hypocrisie du monde colonial."
+            },
+            {
+                "title": "Chemin d'Europe",
+                "publication_date": "1960-01-01",
+                "summary": "Aki Barnabas, jeune Camerounais ambitieux, rêve de partir en France et multiplie les expédients pour y parvenir."
+            }
+        ]
+    },
+    {
+        "firstname": "Aminata",
+        "lastname": "Sow Fall",
+        "birthdate": "1941-04-27",
+        "email": "aminata.sowfall@example.com",
+        "books": [
+            {
+                "title": "Le Revenant",
+                "publication_date": "1976-01-01",
+                "summary": "Sorti de prison et rejeté par les siens, Bakar organise ses propres funérailles pour se venger."
+            },
+            {
+                "title": "La Grève des bàttu",
+                "publication_date": "1979-01-01",
+                "summary": "Chassés de la ville, les mendiants de Dakar se mettent en grève, au grand dam de ceux qui ont besoin de leur faire l'aumône."
+            },
+            {
+                "title": "L'Appel des arènes",
+                "publication_date": "1982-01-01",
+                "summary": "Nalla, jeune garçon, se passionne pour la lutte traditionnelle, contre l'avis de sa mère."
+            },
+            {
+                "title": "L'Ex-père de la nation",
+                "publication_date": "1987-01-01",
+                "summary": "Un ancien président déchu revient sur son exercice du pouvoir."
+            },
+            {
+                "title": "Douceurs du bercail",
+                "publication_date": "1998-01-01",
+                "summary": "Humiliée lors d'un contrôle à l'aéroport de Paris, Asta décide de construire sa vie au Sénégal."
+            },
+            {
+                "title": "Festins de la détresse",
+                "publication_date": "2005-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Chimamanda Ngozi",
+        "lastname": "Adichie",
+        "birthdate": "1977-09-15",
+        "email": "chimamanda.adichie@example.com",
+        "books": [
+            {
+                "title": "Purple Hibiscus",
+                "publication_date": "2003-01-01",
+                "summary": "Kambili, adolescente nigériane, grandit sous l'autorité d'un père catholique fervent et violent."
+            },
+            {
+                "title": "Half of a Yellow Sun",
+                "publication_date": "2006-01-01",
+                "summary": "Le destin croisé de plusieurs personnages pendant la guerre du Biafra."
+            },
+            {
+                "title": "The Thing Around Your Neck",
+                "publication_date": "2009-01-01",
+                "summary": "Recueil de nouvelles entre le Nigeria et les États-Unis."
+            },
+            {
+                "title": "Americanah",
+                "publication_date": "2013-01-01",
+                "summary": "Ifemelu quitte le Nigeria pour les États-Unis et y découvre ce que signifie être noire."
+            },
+            {
+                "title": "We Should All Be Feminists",
+                "publication_date": "2014-01-01",
+                "summary": "Essai tiré d'une conférence TEDx sur le féminisme."
+            },
+            {
+                "title": "Dear Ijeawele",
+                "publication_date": "2017-01-01",
+                "summary": "Quinze conseils à une amie pour élever sa fille de façon féministe."
+            },
+            {
+                "title": "Notes on Grief",
+                "publication_date": "2021-01-01",
+                "summary": "Récit du deuil de l'autrice après la mort de son père."
+            },
+            {
+                "title": "Dream Count",
+                "publication_date": "2025-01-01",
+                "summary": "Quatre femmes, entre le Nigeria et les États-Unis, revisitent leurs amours pendant la pandémie."
+            }
+        ]
+    },
+    {
+        "firstname": "Alain",
+        "lastname": "Mabanckou",
+        "birthdate": "1966-02-24",
+        "email": "alain.mabanckou@example.com",
+        "books": [
+            {
+                "title": "Bleu-Blanc-Rouge",
+                "publication_date": "1998-01-01",
+                "summary": "Massala-Massala quitte le Congo pour Paris, qu'il imaginait comme un paradis."
+            },
+            {
+                "title": "African Psycho",
+                "publication_date": "2003-01-01",
+                "summary": "Grégoire Nakobomayo rêve de devenir un grand criminel."
+            },
+            {
+                "title": "Verre cassé",
+                "publication_date": "2005-01-01",
+                "summary": "Les clients d'un bar de Pointe-Noire racontés par un habitué, dans un long flot de paroles sans point final."
+            },
+            {
+                "title": "Mémoires de porc-épic",
+                "publication_date": "2006-01-01",
+                "summary": "Un porc-épic, double animal d'un homme, confesse les meurtres qu'il a commis pour son maître."
+            },
+            {
+                "title": "Black Bazar",
+                "publication_date": "2009-01-01",
+                "summary": "Un dandy congolais installé à Paris raconte sa vie de quartier après le départ de sa compagne."
+            },
+            {
+                "title": "Demain j'aurai vingt ans",
+                "publication_date": "2010-01-01",
+                "summary": "L'enfance de Michel à Pointe-Noire dans les années 1970."
+            },
+            {
+                "title": "Lumières de Pointe-Noire",
+                "publication_date": "2013-01-01",
+                "summary": "L'auteur revient dans sa ville natale après vingt-trois ans d'absence."
+            },
+            {
+                "title": "Petit Piment",
+                "publication_date": "2015-01-01",
+                "summary": "Un orphelin de Pointe-Noire grandit entre orphelinat, bandes de rue et révolution socialiste."
+            },
+            {
+                "title": "Les Cigognes sont immortelles",
+                "publication_date": "2018-01-01",
+                "summary": "Un adolescent de Pointe-Noire vit l'assassinat du président Marien Ngouabi en 1977."
+            }
+        ]
+    },
+    {
+        "firstname": "Tsitsi",
+        "lastname": "Dangarembga",
+        "birthdate": "1959-02-04",
+        "email": "tsitsi.dangarembga@example.com",
+        "books": [
+            {
+                "title": "Nervous Conditions",
+                "publication_date": "1988-01-01",
+                "summary": "Tambu, jeune fille de la Rhodésie des années 1960, se bat pour avoir accès à l'éducation."
+            },
+            {
+                "title": "The Book of Not",
+                "publication_date": "2006-01-01",
+                "summary": "Suite de Nervous Conditions : Tambu poursuit ses études dans un pensionnat pendant la guerre d'indépendance."
+            },
+            {
+                "title": "This Mournable Body",
+                "publication_date": "2018-01-01",
+                "summary": "Dans le Zimbabwe des années 2000, Tambu, devenue adulte, lutte contre la précarité et la désillusion."
+            },
+            {
+                "title": "Black and Female",
+                "publication_date": "2022-01-01",
+                "summary": "Essais sur la condition de femme noire au Zimbabwe."
+            }
+        ]
+    },
+    {
+        "firstname": "Mohamed Mbougar",
+        "lastname": "Sarr",
+        "birthdate": "1990-06-20",
+        "email": "mohamed.sarr@example.com",
+        "books": [
+            {
+                "title": "Terre ceinte",
+                "publication_date": "2015-01-01",
+                "summary": "Dans une ville du Sahel occupée par des djihadistes, des habitants organisent la résistance."
+            },
+            {
+                "title": "Silence du chœur",
+                "publication_date": "2017-01-01",
+                "summary": "L'arrivée de jeunes migrants dans un village sicilien divise la population."
+            },
+            {
+                "title": "De purs hommes",
+                "publication_date": "2018-01-01",
+                "summary": "Une vidéo montrant l'exhumation d'un homme jugé homosexuel bouleverse un professeur de lettres à Dakar."
+            },
+            {
+                "title": "La plus secrète mémoire des hommes",
+                "publication_date": "2021-01-01",
+                "summary": "Un jeune écrivain sénégalais part sur les traces d'un auteur disparu, accusé de plagiat dans les années 1930."
+            }
+        ]
+    },
+    {
+        "firstname": "Ousmane",
+        "lastname": "Sembène",
+        "birthdate": "1923-01-01",
+        "email": "ousmane.sembene@example.com",
+        "books": [
+            {
+                "title": "Le Docker noir",
+                "publication_date": "1956-01-01",
+                "summary": "Diaw Falla, docker à Marseille et écrivain, est accusé du meurtre d'une romancière qui lui a volé son manuscrit."
+            },
+            {
+                "title": "Ô pays, mon beau peuple !",
+                "publication_date": "1957-01-01",
+                "summary": "Oumar Faye revient en Casamance avec son épouse européenne et tente de moderniser l'agriculture de son village."
+            },
+            {
+                "title": "Les Bouts de bois de Dieu",
+                "publication_date": "1960-01-01",
+                "summary": "La grève des cheminots de la ligne Dakar-Niger en 1947-1948, vécue par les ouvriers et leurs familles."
+            },
+            {
+                "title": "Voltaïque",
+                "publication_date": "1962-01-01",
+                "summary": "Recueil de nouvelles."
+            },
+            {
+                "title": "L'Harmattan",
+                "publication_date": "1964-01-01",
+                "summary": "Le référendum de 1958 vu par des militants dans un pays d'Afrique de l'Ouest."
+            },
+            {
+                "title": "Le Mandat",
+                "publication_date": "1966-01-01",
+                "summary": "Ibrahima Dieng reçoit un mandat de Paris et se heurte à la bureaucratie pour l'encaisser."
+            },
+            {
+                "title": "Xala",
+                "publication_date": "1973-01-01",
+                "summary": "Le jour de son troisième mariage, un riche homme d'affaires de Dakar est frappé d'impuissance."
+            },
+            {
+                "title": "Le Dernier de l'Empire",
+                "publication_date": "1981-01-01",
+                "summary": "La disparition d'un président provoque une crise politique au Sénégal."
+            }
+        ]
+    },
+    {
+        "firstname": "Léopold Sédar",
+        "lastname": "Senghor",
+        "birthdate": "1906-10-09",
+        "email": "leopold.senghor@example.com",
+        "books": [
+            {
+                "title": "Chants d'ombre",
+                "publication_date": "1945-01-01",
+                "summary": "Premier recueil de poèmes, entre nostalgie de l'enfance sérère et exil en Europe."
+            },
+            {
+                "title": "Hosties noires",
+                "publication_date": "1948-01-01",
+                "summary": "Poèmes dédiés aux tirailleurs sénégalais, à la guerre et à la captivité."
+            },
+            {
+                "title": "Éthiopiques",
+                "publication_date": "1956-01-01",
+                "summary": "Recueil de poèmes destinés à être accompagnés d'instruments africains."
+            },
+            {
+                "title": "Nocturnes",
+                "publication_date": "1961-01-01",
+                "summary": "Recueil de chants d'amour et d'élégies."
+            },
+            {
+                "title": "Lettres d'hivernage",
+                "publication_date": "1973-01-01",
+                "summary": "Recueil de poèmes d'amour."
+            },
+            {
+                "title": "Élégies majeures",
+                "publication_date": "1979-01-01",
+                "summary": "Recueil d'élégies, dont une pour le fils de l'auteur."
+            }
+        ]
+    },
+    {
+        "firstname": "Birago",
+        "lastname": "Diop",
+        "birthdate": "1906-12-11",
+        "email": "birago.diop@example.com",
+        "books": [
+            {
+                "title": "Les Contes d'Amadou Koumba",
+                "publication_date": "1947-01-01",
+                "summary": "Contes et fables wolofs transmis par le griot de la famille de l'auteur."
+            },
+            {
+                "title": "Les Nouveaux Contes d'Amadou Koumba",
+                "publication_date": "1958-01-01",
+                "summary": "Nouvelle série de contes traditionnels où se croisent hommes, animaux et génies."
+            },
+            {
+                "title": "Leurres et lueurs",
+                "publication_date": "1960-01-01",
+                "summary": "Recueil de poèmes, dont le célèbre « Souffles »."
+            },
+            {
+                "title": "Contes et lavanes",
+                "publication_date": "1963-01-01",
+                "summary": "Contes et récits de la tradition orale sénégalaise."
+            }
+        ]
+    },
+    {
+        "firstname": "Bernard",
+        "lastname": "Dadié",
+        "birthdate": "1916-01-10",
+        "email": "bernard.dadie@example.com",
+        "books": [
+            {
+                "title": "Le Pagne noir",
+                "publication_date": "1955-01-01",
+                "summary": "Recueil de contes africains."
+            },
+            {
+                "title": "Climbié",
+                "publication_date": "1956-01-01",
+                "summary": "Récit en partie autobiographique de la jeunesse d'un Ivoirien sous la colonisation."
+            },
+            {
+                "title": "Un Nègre à Paris",
+                "publication_date": "1959-01-01",
+                "summary": "Lettres d'un Africain qui pose un regard ironique sur les mœurs parisiennes."
+            },
+            {
+                "title": "Patron de New York",
+                "publication_date": "1964-01-01",
+                "summary": "Chronique humoristique d'un séjour aux États-Unis."
+            },
+            {
+                "title": "Béatrice du Congo",
+                "publication_date": "1970-01-01",
+                "summary": "Pièce de théâtre sur Kimpa Vita, prophétesse kongo qui résista aux Portugais."
+            },
+            {
+                "title": "Monsieur Thôgô-gnini",
+                "publication_date": "1970-01-01",
+                "summary": "Pièce satirique sur un parvenu prêt à tout pour s'enrichir."
+            }
+        ]
+    },
+    {
+        "firstname": "Calixthe",
+        "lastname": "Beyala",
+        "birthdate": "1961-10-26",
+        "email": "calixthe.beyala@example.com",
+        "books": [
+            {
+                "title": "C'est le soleil qui m'a brûlée",
+                "publication_date": "1987-01-01",
+                "summary": "Ateba, adolescente d'un quartier pauvre de Douala, cherche à échapper à la domination masculine."
+            },
+            {
+                "title": "Tu t'appelleras Tanga",
+                "publication_date": "1988-01-01",
+                "summary": "En prison, Tanga raconte sa vie d'enfant des rues à une codétenue européenne."
+            },
+            {
+                "title": "Le Petit Prince de Belleville",
+                "publication_date": "1992-01-01",
+                "summary": "Loukoum, petit garçon malien, grandit à Belleville."
+            },
+            {
+                "title": "Maman a un amant",
+                "publication_date": "1993-01-01",
+                "summary": "Suite du Petit Prince de Belleville, du point de vue de la mère."
+            },
+            {
+                "title": "Assèze l'Africaine",
+                "publication_date": "1994-01-01",
+                "summary": "Le parcours d'une jeune femme, du village camerounais à la banlieue parisienne."
+            },
+            {
+                "title": "Les Honneurs perdus",
+                "publication_date": "1996-01-01",
+                "summary": "Saïda, quinquagénaire camerounaise, quitte son quartier de Douala pour Belleville."
+            },
+            {
+                "title": "La Petite Fille du réverbère",
+                "publication_date": "1998-01-01",
+                "summary": "Tapoka, enfant pauvre d'un village camerounais, étudie à la lumière d'un réverbère."
+            }
+        ]
+    },
+    {
+        "firstname": "Véronique",
+        "lastname": "Tadjo",
+        "birthdate": "1955-07-21",
+        "email": "veronique.tadjo@example.com",
+        "books": [
+            {
+                "title": "À vol d'oiseau",
+                "publication_date": "1986-01-01",
+                "summary": "Courts récits poétiques sur l'amour, la ville et la société ivoirienne."
+            },
+            {
+                "title": "Le Royaume aveugle",
+                "publication_date": "1990-01-01",
+                "summary": "Un royaume imaginaire étouffé par un pouvoir autoritaire."
+            },
+            {
+                "title": "L'Ombre d'Imana",
+                "publication_date": "2000-01-01",
+                "summary": "Voyage au Rwanda après le génocide des Tutsi."
+            },
+            {
+                "title": "Reine Pokou",
+                "publication_date": "2004-01-01",
+                "summary": "Variations autour de la légende de la reine baoulé qui sacrifia son fils pour sauver son peuple."
+            },
+            {
+                "title": "Loin de mon père",
+                "publication_date": "2010-01-01",
+                "summary": "Une femme revient à Abidjan pour les funérailles de son père."
+            },
+            {
+                "title": "En compagnie des hommes",
+                "publication_date": "2017-01-01",
+                "summary": "L'épidémie d'Ebola en Afrique de l'Ouest, racontée par plusieurs voix, dont celle d'un arbre."
+            }
+        ]
+    },
+    {
+        "firstname": "Sony",
+        "lastname": "Labou Tansi",
+        "birthdate": "1947-06-05",
+        "email": "sony.laboutansi@example.com",
+        "books": [
+            {
+                "title": "La Vie et demie",
+                "publication_date": "1979-01-01",
+                "summary": "Dans la Katamalanasie imaginaire, une famille résiste à une dynastie de dictateurs."
+            },
+            {
+                "title": "L'État honteux",
+                "publication_date": "1981-01-01",
+                "summary": "Le règne grotesque d'un dictateur africain, le colonel Martillimi Lopez."
+            },
+            {
+                "title": "L'Anté-peuple",
+                "publication_date": "1983-01-01",
+                "summary": "Un directeur d'école respecté voit sa vie basculer après le suicide d'une élève."
+            },
+            {
+                "title": "Les Sept Solitudes de Lorsa Lopez",
+                "publication_date": "1985-01-01",
+                "summary": "Dans une ville côtière, le meurtre d'une femme par son mari laisse la population indifférente."
+            },
+            {
+                "title": "Le Commencement des douleurs",
+                "publication_date": "1995-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Henri",
+        "lastname": "Lopes",
+        "birthdate": "1937-09-12",
+        "email": "henri.lopes@example.com",
+        "books": [
+            {
+                "title": "Tribaliques",
+                "publication_date": "1971-01-01",
+                "summary": "Nouvelles sur les travers de la société congolaise après l'indépendance."
+            },
+            {
+                "title": "Sans tam-tam",
+                "publication_date": "1977-01-01",
+                "summary": "Roman épistolaire d'un enseignant qui refuse un poste diplomatique."
+            },
+            {
+                "title": "Le Pleurer-Rire",
+                "publication_date": "1982-01-01",
+                "summary": "Un maître d'hôtel raconte avec humour le régime du dictateur qu'il sert."
+            },
+            {
+                "title": "Le Chercheur d'Afriques",
+                "publication_date": "1990-01-01",
+                "summary": "André, métis congolais, part en France à la recherche de son père."
+            },
+            {
+                "title": "Le Lys et le Flamboyant",
+                "publication_date": "1997-01-01",
+                "summary": "Biographie imaginaire d'une chanteuse métisse entre Afrique et Europe."
+            },
+            {
+                "title": "Une enfant de Poto-Poto",
+                "publication_date": "2012-01-01",
+                "summary": "Kimia, fille d'un quartier de Brazzaville, poursuit ses études jusqu'en France."
+            }
+        ]
+    },
+    {
+        "firstname": "Emmanuel",
+        "lastname": "Dongala",
+        "birthdate": "1941-07-14",
+        "email": "emmanuel.dongala@example.com",
+        "books": [
+            {
+                "title": "Un fusil dans la main, un poème dans la poche",
+                "publication_date": "1973-01-01",
+                "summary": "Mayela, jeune révolutionnaire, s'engage dans les luttes de libération avant d'accéder au pouvoir."
+            },
+            {
+                "title": "Le Feu des origines",
+                "publication_date": "1987-01-01",
+                "summary": "La vie de Mandala Mankunku à travers l'histoire du Congo."
+            },
+            {
+                "title": "Les petits garçons naissent aussi des étoiles",
+                "publication_date": "1998-01-01",
+                "summary": "Un adolescent de Brazzaville raconte avec humour les bouleversements politiques de son pays."
+            },
+            {
+                "title": "Johnny chien méchant",
+                "publication_date": "2002-01-01",
+                "summary": "Une guerre civile vue par un jeune milicien et par une adolescente qui tente de sauver sa famille."
+            },
+            {
+                "title": "Photo de groupe au bord du fleuve",
+                "publication_date": "2010-01-01",
+                "summary": "Des casseuses de pierres s'unissent pour réclamer un juste prix pour leur travail."
+            }
+        ]
+    },
+    {
+        "firstname": "Tierno",
+        "lastname": "Monénembo",
+        "birthdate": "1947-07-21",
+        "email": "tierno.monenembo@example.com",
+        "books": [
+            {
+                "title": "Les Crapauds-brousse",
+                "publication_date": "1979-01-01",
+                "summary": "Diouldé, jeune fonctionnaire, est pris dans les rouages d'une dictature africaine."
+            },
+            {
+                "title": "Les Écailles du ciel",
+                "publication_date": "1986-01-01",
+                "summary": "Le destin de Cousin Samba à travers l'histoire de la Guinée, de la colonisation à la dictature."
+            },
+            {
+                "title": "L'Aîné des orphelins",
+                "publication_date": "2000-01-01",
+                "summary": "Faustin, orphelin du génocide au Rwanda, attend son exécution."
+            },
+            {
+                "title": "Peuls",
+                "publication_date": "2004-01-01",
+                "summary": "Une fresque de l'histoire du peuple peul sur plusieurs siècles."
+            },
+            {
+                "title": "Le Roi de Kahel",
+                "publication_date": "2008-01-01",
+                "summary": "L'aventurier français Aimé Olivier de Sanderval veut fonder un royaume dans le Fouta-Djalon."
+            },
+            {
+                "title": "Le Terroriste noir",
+                "publication_date": "2012-01-01",
+                "summary": "Addi Bâ, tirailleur guinéen, devient résistant dans les Vosges."
+            }
+        ]
+    },
+    {
+        "firstname": "Elechi",
+        "lastname": "Amadi",
+        "birthdate": "1934-05-12",
+        "email": "elechi.amadi@example.com",
+        "books": [
+            {
+                "title": "The Concubine",
+                "publication_date": "1966-01-01",
+                "summary": "Ihuoma, jeune veuve, semble porter malheur aux hommes qui l'aiment."
+            },
+            {
+                "title": "The Great Ponds",
+                "publication_date": "1969-01-01",
+                "summary": "Deux villages se disputent un étang poissonneux."
+            },
+            {
+                "title": "Sunset in Biafra",
+                "publication_date": "1973-01-01",
+                "summary": "Journal de guerre de l'auteur pendant le conflit du Biafra."
+            },
+            {
+                "title": "The Slave",
+                "publication_date": "1978-01-01",
+                "summary": "Olumati, né dans le sanctuaire d'un dieu, cherche à se libérer de son statut."
+            },
+            {
+                "title": "Estrangement",
+                "publication_date": "1986-01-01",
+                "summary": "Les relations humaines au lendemain de la guerre du Biafra."
+            }
+        ]
+    },
+    {
+        "firstname": "Seydou",
+        "lastname": "Badian",
+        "birthdate": "1928-04-10",
+        "email": "seydou.badian@example.com",
+        "books": [
+            {
+                "title": "Sous l'orage",
+                "publication_date": "1957-01-01",
+                "summary": "Kany, jeune Malienne, refuse le mariage arrangé par son père avec un riche commerçant."
+            },
+            {
+                "title": "Le Sang des masques",
+                "publication_date": "1976-01-01"
+            },
+            {
+                "title": "Noces sacrées",
+                "publication_date": "1977-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Ken",
+        "lastname": "Bugul",
+        "birthdate": "1947-11-28",
+        "email": "ken.bugul@example.com",
+        "books": [
+            {
+                "title": "Le Baobab fou",
+                "publication_date": "1982-01-01",
+                "summary": "Récit autobiographique d'une jeune Sénégalaise partie étudier en Belgique."
+            },
+            {
+                "title": "Cendres et braises",
+                "publication_date": "1994-01-01",
+                "summary": "Une femme raconte sa relation destructrice avec un homme en France."
+            },
+            {
+                "title": "Riwan ou le chemin de sable",
+                "publication_date": "1999-01-01",
+                "summary": "La narratrice devient la vingt-huitième épouse d'un marabout."
+            },
+            {
+                "title": "La Folie et la Mort",
+                "publication_date": "2000-01-01",
+                "summary": "Satire d'un régime dictatorial qui broie les individus."
+            }
+        ]
+    },
+    {
+        "firstname": "Boubacar Boris",
+        "lastname": "Diop",
+        "birthdate": "1946-10-26",
+        "email": "boubacar.diop@example.com",
+        "books": [
+            {
+                "title": "Le Temps de Tamango",
+                "publication_date": "1981-01-01",
+                "summary": "Roman d'anticipation sur une révolution avortée au Sénégal."
+            },
+            {
+                "title": "Les Tambours de la mémoire",
+                "publication_date": "1990-01-01",
+                "summary": "Fadel enquête sur une reine mystérieuse, figure de la résistance."
+            },
+            {
+                "title": "Le Cavalier et son ombre",
+                "publication_date": "1997-01-01"
+            },
+            {
+                "title": "Murambi, le livre des ossements",
+                "publication_date": "2000-01-01",
+                "summary": "Roman sur le génocide des Tutsi au Rwanda."
+            },
+            {
+                "title": "Doomi Golo",
+                "publication_date": "2003-01-01",
+                "summary": "Premier roman de l'auteur en wolof : un vieil homme écrit à son petit-fils parti à l'étranger."
+            },
+            {
+                "title": "Kaveena",
+                "publication_date": "2006-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Abdourahman",
+        "lastname": "Waberi",
+        "birthdate": "1965-06-20",
+        "email": "abdourahman.waberi@example.com",
+        "books": [
+            {
+                "title": "Le Pays sans ombre",
+                "publication_date": "1994-01-01",
+                "summary": "Recueil de nouvelles sur Djibouti."
+            },
+            {
+                "title": "Cahier nomade",
+                "publication_date": "1996-01-01",
+                "summary": "Nouvelles sur Djibouti, entre mémoire nomade et violences politiques."
+            },
+            {
+                "title": "Balbala",
+                "publication_date": "1997-01-01",
+                "summary": "Quatre amis tentent de survivre et de résister dans un Djibouti autoritaire."
+            },
+            {
+                "title": "Transit",
+                "publication_date": "2003-01-01",
+                "summary": "Deux Djiboutiens fuyant la guerre civile attendent à l'aéroport de Roissy."
+            },
+            {
+                "title": "Aux États-Unis d'Afrique",
+                "publication_date": "2006-01-01",
+                "summary": "Uchronie : l'Afrique est devenue riche et accueille des migrants venus d'Europe."
+            },
+            {
+                "title": "Passage des larmes",
+                "publication_date": "2009-01-01",
+                "summary": "Djibril revient à Djibouti pour une mission de renseignement."
+            }
+        ]
+    },
+    {
+        "firstname": "Nuruddin",
+        "lastname": "Farah",
+        "birthdate": "1945-11-24",
+        "email": "nuruddin.farah@example.com",
+        "books": [
+            {
+                "title": "From a Crooked Rib",
+                "publication_date": "1970-01-01",
+                "summary": "Ebla, jeune nomade somalienne, fuit un mariage arrangé."
+            },
+            {
+                "title": "Sweet and Sour Milk",
+                "publication_date": "1979-01-01",
+                "summary": "Loyaan enquête sur la mort mystérieuse de son frère jumeau sous un régime dictatorial."
+            },
+            {
+                "title": "Close Sesame",
+                "publication_date": "1983-01-01"
+            },
+            {
+                "title": "Maps",
+                "publication_date": "1986-01-01",
+                "summary": "Askar, orphelin de l'Ogaden, grandit entre la Somalie et l'Éthiopie en guerre."
+            },
+            {
+                "title": "Secrets",
+                "publication_date": "1998-01-01"
+            },
+            {
+                "title": "Links",
+                "publication_date": "2004-01-01",
+                "summary": "Jeebleh revient à Mogadiscio après des années d'exil, en pleine guerre civile."
+            },
+            {
+                "title": "Knots",
+                "publication_date": "2007-01-01",
+                "summary": "Cambara revient à Mogadiscio et tente de récupérer la maison familiale."
+            }
+        ]
+    },
+    {
+        "firstname": "Ben",
+        "lastname": "Okri",
+        "birthdate": "1959-03-15",
+        "email": "ben.okri@example.com",
+        "books": [
+            {
+                "title": "Flowers and Shadows",
+                "publication_date": "1980-01-01",
+                "summary": "Jeffia, fils d'un homme d'affaires de Lagos, découvre les secrets de son père."
+            },
+            {
+                "title": "The Famished Road",
+                "publication_date": "1991-01-01",
+                "summary": "Azaro, enfant-esprit, oscille entre le monde des vivants et celui des esprits."
+            },
+            {
+                "title": "Songs of Enchantment",
+                "publication_date": "1993-01-01",
+                "summary": "Suite de The Famished Road : Azaro et sa famille face aux violences politiques."
+            },
+            {
+                "title": "Astonishing the Gods",
+                "publication_date": "1995-01-01",
+                "summary": "Un homme invisible part en quête d'une île mystérieuse."
+            },
+            {
+                "title": "Infinite Riches",
+                "publication_date": "1998-01-01",
+                "summary": "Troisième volet du cycle d'Azaro, à la veille de l'indépendance."
+            },
+            {
+                "title": "Starbook",
+                "publication_date": "2007-01-01",
+                "summary": "Conte sur un prince et une jeune artisane dans un royaume africain."
+            },
+            {
+                "title": "The Freedom Artist",
+                "publication_date": "2019-01-01",
+                "summary": "Fable sur un monde où la liberté est surveillée."
+            }
+        ]
+    },
+    {
+        "firstname": "Buchi",
+        "lastname": "Emecheta",
+        "birthdate": "1944-07-21",
+        "email": "buchi.emecheta@example.com",
+        "books": [
+            {
+                "title": "In the Ditch",
+                "publication_date": "1972-01-01",
+                "summary": "Adah, mère seule nigériane, survit dans les logements sociaux de Londres."
+            },
+            {
+                "title": "Second-Class Citizen",
+                "publication_date": "1974-01-01",
+                "summary": "Adah quitte Lagos pour Londres et affronte le racisme et un mari violent."
+            },
+            {
+                "title": "The Bride Price",
+                "publication_date": "1976-01-01",
+                "summary": "Aku-nna, jeune Igbo, épouse l'homme qu'elle aime malgré les traditions."
+            },
+            {
+                "title": "The Joys of Motherhood",
+                "publication_date": "1979-01-01",
+                "summary": "Nnu Ego consacre sa vie à ses enfants dans le Lagos colonial."
+            },
+            {
+                "title": "Destination Biafra",
+                "publication_date": "1982-01-01",
+                "summary": "La guerre du Biafra vue par Debbie Ogedemgbe, jeune femme engagée."
+            },
+            {
+                "title": "Head Above Water",
+                "publication_date": "1986-01-01",
+                "summary": "Autobiographie de l'autrice."
+            }
+        ]
+    },
+    {
+        "firstname": "Flora",
+        "lastname": "Nwapa",
+        "birthdate": "1931-01-13",
+        "email": "flora.nwapa@example.com",
+        "books": [
+            {
+                "title": "Efuru",
+                "publication_date": "1966-01-01",
+                "summary": "Efuru, femme respectée de son village igbo, ne parvient pas à trouver le bonheur dans le mariage."
+            },
+            {
+                "title": "Idu",
+                "publication_date": "1970-01-01",
+                "summary": "Le profond attachement d'Idu à son mari dans un village igbo."
+            },
+            {
+                "title": "Never Again",
+                "publication_date": "1975-01-01",
+                "summary": "Kate vit la guerre du Biafra et ses illusions perdues."
+            },
+            {
+                "title": "One Is Enough",
+                "publication_date": "1981-01-01",
+                "summary": "Amaka quitte son mari et réussit dans les affaires à Lagos."
+            }
+        ]
+    },
+    {
+        "firstname": "Cyprian",
+        "lastname": "Ekwensi",
+        "birthdate": "1921-09-26",
+        "email": "cyprian.ekwensi@example.com",
+        "books": [
+            {
+                "title": "People of the City",
+                "publication_date": "1954-01-01",
+                "summary": "Amusa Sango, journaliste et musicien, découvre la vie trépidante de Lagos."
+            },
+            {
+                "title": "Jagua Nana",
+                "publication_date": "1961-01-01",
+                "summary": "Jagua Nana, femme libre et flamboyante, dans le Lagos des années 1950."
+            },
+            {
+                "title": "Burning Grass",
+                "publication_date": "1962-01-01",
+                "summary": "Les aventures de Mai Sunsaye, berger peul du nord du Nigeria."
+            },
+            {
+                "title": "Survive the Peace",
+                "publication_date": "1976-01-01",
+                "summary": "Un journaliste tente de reconstruire sa vie après la guerre du Biafra."
+            }
+        ]
+    },
+    {
+        "firstname": "Amos",
+        "lastname": "Tutuola",
+        "birthdate": "1920-06-20",
+        "email": "amos.tutuola@example.com",
+        "books": [
+            {
+                "title": "The Palm-Wine Drinkard",
+                "publication_date": "1952-01-01",
+                "summary": "Un buveur de vin de palme part au pays des morts chercher son malafoutier défunt."
+            },
+            {
+                "title": "My Life in the Bush of Ghosts",
+                "publication_date": "1954-01-01",
+                "summary": "Un enfant fuyant la guerre s'égare dans la brousse des fantômes."
+            },
+            {
+                "title": "Simbi and the Satyr of the Dark Jungle",
+                "publication_date": "1955-01-01",
+                "summary": "Simbi, jeune fille riche, part découvrir la pauvreté et la souffrance."
+            },
+            {
+                "title": "The Brave African Huntress",
+                "publication_date": "1958-01-01",
+                "summary": "Adebisi, chasseresse, part délivrer ses frères prisonniers dans la jungle."
+            },
+            {
+                "title": "The Witch-Herbalist of the Remote Town",
+                "publication_date": "1981-01-01",
+                "summary": "Un chasseur part chercher un remède pour que sa femme puisse avoir un enfant."
+            }
+        ]
+    },
+    {
+        "firstname": "Ayi Kwei",
+        "lastname": "Armah",
+        "birthdate": "1939-10-28",
+        "email": "ayikwei.armah@example.com",
+        "books": [
+            {
+                "title": "The Beautyful Ones Are Not Yet Born",
+                "publication_date": "1968-01-01",
+                "summary": "Un employé des chemins de fer refuse la corruption généralisée du Ghana de Nkrumah."
+            },
+            {
+                "title": "Fragments",
+                "publication_date": "1970-01-01",
+                "summary": "Baako revient au Ghana après ses études aux États-Unis et ne répond pas aux attentes de sa famille."
+            },
+            {
+                "title": "Why Are We So Blest?",
+                "publication_date": "1972-01-01",
+                "summary": "Un étudiant ghanéen abandonne ses études aux États-Unis pour rejoindre une lutte de libération."
+            },
+            {
+                "title": "Two Thousand Seasons",
+                "publication_date": "1973-01-01",
+                "summary": "Fresque épique sur des siècles d'oppression et de résistance en Afrique."
+            },
+            {
+                "title": "The Healers",
+                "publication_date": "1978-01-01",
+                "summary": "Densu rejoint les guérisseurs à l'époque de la chute de l'empire ashanti."
+            }
+        ]
+    },
+    {
+        "firstname": "Ama Ata",
+        "lastname": "Aidoo",
+        "birthdate": "1942-03-23",
+        "email": "amaata.aidoo@example.com",
+        "books": [
+            {
+                "title": "The Dilemma of a Ghost",
+                "publication_date": "1965-01-01",
+                "summary": "Pièce de théâtre : un Ghanéen revient au pays avec son épouse afro-américaine."
+            },
+            {
+                "title": "Anowa",
+                "publication_date": "1970-01-01",
+                "summary": "Pièce de théâtre : Anowa épouse l'homme de son choix, qui s'enrichit grâce à l'esclavage."
+            },
+            {
+                "title": "No Sweetness Here",
+                "publication_date": "1970-01-01",
+                "summary": "Recueil de nouvelles sur le Ghana après l'indépendance."
+            },
+            {
+                "title": "Our Sister Killjoy",
+                "publication_date": "1977-01-01",
+                "summary": "Sissie, jeune Ghanéenne, voyage en Europe et porte un regard critique sur l'Occident."
+            },
+            {
+                "title": "Changes",
+                "publication_date": "1991-01-01",
+                "summary": "Esi, femme ghanéenne instruite, quitte son mari et devient seconde épouse."
+            }
+        ]
+    },
+    {
+        "firstname": "Nadine",
+        "lastname": "Gordimer",
+        "birthdate": "1923-11-20",
+        "email": "nadine.gordimer@example.com",
+        "books": [
+            {
+                "title": "The Lying Days",
+                "publication_date": "1953-01-01",
+                "summary": "Helen, jeune femme blanche, prend conscience de l'injustice raciale."
+            },
+            {
+                "title": "A Guest of Honour",
+                "publication_date": "1970-01-01",
+                "summary": "Un ancien administrateur colonial revient dans un pays africain devenu indépendant."
+            },
+            {
+                "title": "The Conservationist",
+                "publication_date": "1974-01-01",
+                "summary": "Mehring, riche industriel blanc, achète une ferme où l'on découvre le corps d'un inconnu noir."
+            },
+            {
+                "title": "Burger's Daughter",
+                "publication_date": "1979-01-01",
+                "summary": "Rosa Burger, fille d'un militant anti-apartheid mort en prison, cherche sa propre voie."
+            },
+            {
+                "title": "July's People",
+                "publication_date": "1981-01-01",
+                "summary": "Pendant une guerre civile imaginaire, une famille blanche se réfugie dans le village de son domestique."
+            },
+            {
+                "title": "My Son's Story",
+                "publication_date": "1990-01-01",
+                "summary": "Un adolescent découvre la liaison de son père, militant anti-apartheid."
+            },
+            {
+                "title": "The Pickup",
+                "publication_date": "2001-01-01",
+                "summary": "Julie, Sud-Africaine aisée, suit son amant sans papiers dans son pays d'origine."
+            },
+            {
+                "title": "Get a Life",
+                "publication_date": "2005-01-01",
+                "summary": "Un écologiste atteint d'un cancer doit vivre isolé pendant son traitement."
+            }
+        ]
+    },
+    {
+        "firstname": "J. M.",
+        "lastname": "Coetzee",
+        "birthdate": "1940-02-09",
+        "email": "jm.coetzee@example.com",
+        "books": [
+            {
+                "title": "Dusklands",
+                "publication_date": "1974-01-01",
+                "summary": "Deux récits sur la violence coloniale : la guerre du Vietnam et l'expédition d'un colon au XVIIIe siècle."
+            },
+            {
+                "title": "Waiting for the Barbarians",
+                "publication_date": "1980-01-01",
+                "summary": "Le magistrat d'un poste frontière d'un empire imaginaire s'oppose à la torture des « barbares »."
+            },
+            {
+                "title": "Life & Times of Michael K",
+                "publication_date": "1983-01-01",
+                "summary": "Pendant une guerre civile, Michael K emmène sa mère malade à travers l'Afrique du Sud."
+            },
+            {
+                "title": "Foe",
+                "publication_date": "1986-01-01",
+                "summary": "Réécriture de Robinson Crusoé du point de vue d'une naufragée."
+            },
+            {
+                "title": "Age of Iron",
+                "publication_date": "1990-01-01",
+                "summary": "Une professeure mourante écrit à sa fille pendant les violences de l'apartheid."
+            },
+            {
+                "title": "Boyhood",
+                "publication_date": "1997-01-01",
+                "summary": "Récit autobiographique de l'enfance de l'auteur."
+            },
+            {
+                "title": "Disgrace",
+                "publication_date": "1999-01-01",
+                "summary": "Après un scandale, un professeur se réfugie chez sa fille dans une ferme du Cap-Oriental."
+            },
+            {
+                "title": "Elizabeth Costello",
+                "publication_date": "2003-01-01",
+                "summary": "Une romancière australienne donne des conférences à travers le monde."
+            },
+            {
+                "title": "The Childhood of Jesus",
+                "publication_date": "2013-01-01",
+                "summary": "Un homme et un enfant arrivent dans un pays inconnu où ils doivent tout recommencer."
+            }
+        ]
+    },
+    {
+        "firstname": "Alan",
+        "lastname": "Paton",
+        "birthdate": "1903-01-11",
+        "email": "alan.paton@example.com",
+        "books": [
+            {
+                "title": "Cry, the Beloved Country",
+                "publication_date": "1948-01-01",
+                "summary": "Le pasteur Kumalo part à Johannesburg à la recherche de son fils."
+            },
+            {
+                "title": "Too Late the Phalarope",
+                "publication_date": "1953-01-01",
+                "summary": "Un policier afrikaner respecté transgresse les lois raciales de l'apartheid."
+            },
+            {
+                "title": "Ah, but Your Land Is Beautiful",
+                "publication_date": "1981-01-01",
+                "summary": "Chronique de la résistance à l'apartheid dans les années 1950."
+            }
+        ]
+    },
+    {
+        "firstname": "Bessie",
+        "lastname": "Head",
+        "birthdate": "1937-07-06",
+        "email": "bessie.head@example.com",
+        "books": [
+            {
+                "title": "When Rain Clouds Gather",
+                "publication_date": "1968-01-01",
+                "summary": "Makhaya, réfugié sud-africain, participe à un projet agricole dans un village du Botswana."
+            },
+            {
+                "title": "Maru",
+                "publication_date": "1971-01-01",
+                "summary": "Margaret, jeune institutrice masarwa, affronte les préjugés dans un village du Botswana."
+            },
+            {
+                "title": "A Question of Power",
+                "publication_date": "1973-01-01",
+                "summary": "Elizabeth, exilée au Botswana, sombre dans la folie."
+            },
+            {
+                "title": "The Collector of Treasures",
+                "publication_date": "1977-01-01",
+                "summary": "Recueil de nouvelles sur la vie villageoise au Botswana."
+            },
+            {
+                "title": "Serowe: Village of the Rain Wind",
+                "publication_date": "1981-01-01",
+                "summary": "Portrait historique et humain du village de Serowe, au Botswana."
+            },
+            {
+                "title": "A Bewitched Crossroad",
+                "publication_date": "1984-01-01",
+                "summary": "Roman historique sur l'Afrique australe au XIXe siècle."
+            }
+        ]
+    },
+    {
+        "firstname": "Zakes",
+        "lastname": "Mda",
+        "birthdate": "1948-10-06",
+        "email": "zakes.mda@example.com",
+        "books": [
+            {
+                "title": "Ways of Dying",
+                "publication_date": "1995-01-01",
+                "summary": "Toloki, pleureur professionnel, retrouve une amie d'enfance dans une Afrique du Sud en transition."
+            },
+            {
+                "title": "The Heart of Redness",
+                "publication_date": "2000-01-01",
+                "summary": "Dans un village du Cap-Oriental, deux camps s'affrontent autour d'un projet de casino."
+            },
+            {
+                "title": "The Madonna of Excelsior",
+                "publication_date": "2002-01-01",
+                "summary": "Inspiré d'un procès de 1971 pour violation des lois raciales dans la ville d'Excelsior."
+            },
+            {
+                "title": "The Whale Caller",
+                "publication_date": "2005-01-01",
+                "summary": "Un homme entretient une relation passionnée avec une baleine dans la baie d'Hermanus."
+            },
+            {
+                "title": "Cion",
+                "publication_date": "2007-01-01",
+                "summary": "Toloki, le pleureur professionnel de Ways of Dying, part aux États-Unis."
+            }
+        ]
+    },
+    {
+        "firstname": "Naguib",
+        "lastname": "Mahfouz",
+        "birthdate": "1911-12-11",
+        "email": "naguib.mahfouz@example.com",
+        "books": [
+            {
+                "title": "Passage des miracles",
+                "publication_date": "1947-01-01",
+                "summary": "La vie des habitants d'une ruelle du Caire pendant la Seconde Guerre mondiale."
+            },
+            {
+                "title": "Impasse des deux palais",
+                "publication_date": "1956-01-01",
+                "summary": "Premier volet de la Trilogie du Caire : une famille cairote dans l'Égypte de 1917-1919."
+            },
+            {
+                "title": "Le Jardin du passé",
+                "publication_date": "1957-01-01",
+                "summary": "Troisième volet de la Trilogie du Caire."
+            },
+            {
+                "title": "Le Palais du désir",
+                "publication_date": "1957-01-01",
+                "summary": "Deuxième volet de la Trilogie du Caire."
+            },
+            {
+                "title": "Les Fils de la médina",
+                "publication_date": "1959-01-01",
+                "summary": "Allégorie de l'histoire de l'humanité à travers les générations d'un quartier du Caire."
+            },
+            {
+                "title": "Le Voleur et les Chiens",
+                "publication_date": "1961-01-01",
+                "summary": "Saïd Mahrane sort de prison et cherche à se venger de ceux qui l'ont trahi."
+            },
+            {
+                "title": "Dérives sur le Nil",
+                "publication_date": "1966-01-01",
+                "summary": "Des intellectuels désabusés se retrouvent sur une péniche du Nil."
+            },
+            {
+                "title": "Les Nuits des mille et une nuits",
+                "publication_date": "1982-01-01",
+                "summary": "Réécriture des contes de Shéhérazade."
+            }
+        ]
+    },
+    {
+        "firstname": "Nawal",
+        "lastname": "El Saadawi",
+        "birthdate": "1931-10-27",
+        "email": "nawal.elsaadawi@example.com",
+        "books": [
+            {
+                "title": "Mémoires d'une femme docteur",
+                "publication_date": "1958-01-01",
+                "summary": "Une jeune Égyptienne devient médecin pour échapper au destin imposé aux femmes."
+            },
+            {
+                "title": "Ferdaous, une voix en enfer",
+                "publication_date": "1975-01-01",
+                "summary": "Condamnée à mort, Ferdaous raconte sa vie à une psychiatre."
+            },
+            {
+                "title": "La Face cachée d'Ève",
+                "publication_date": "1977-01-01",
+                "summary": "Essai sur la condition des femmes dans le monde arabe."
+            },
+            {
+                "title": "La Chute de l'imam",
+                "publication_date": "1987-01-01",
+                "summary": "Satire du pouvoir politique et religieux à travers l'histoire d'une jeune femme poursuivie."
+            }
+        ]
+    },
+    {
+        "firstname": "Tahar",
+        "lastname": "Ben Jelloun",
+        "birthdate": "1944-12-01",
+        "email": "tahar.benjelloun@example.com",
+        "books": [
+            {
+                "title": "Harrouda",
+                "publication_date": "1973-01-01",
+                "summary": "Évocation poétique de Fès et de Tanger à travers une figure féminine mythique."
+            },
+            {
+                "title": "L'Enfant de sable",
+                "publication_date": "1985-01-01",
+                "summary": "Ahmed, huitième fille d'un père qui voulait un garçon, est élevée comme un homme."
+            },
+            {
+                "title": "La Nuit sacrée",
+                "publication_date": "1987-01-01",
+                "summary": "Suite de L'Enfant de sable : Zahra se libère de l'identité masculine qui lui a été imposée."
+            },
+            {
+                "title": "Le Racisme expliqué à ma fille",
+                "publication_date": "1998-01-01",
+                "summary": "Dialogue entre un père et sa fille sur le racisme."
+            },
+            {
+                "title": "Cette aveuglante absence de lumière",
+                "publication_date": "2001-01-01",
+                "summary": "Le témoignage d'un survivant du bagne de Tazmamart."
+            },
+            {
+                "title": "Partir",
+                "publication_date": "2006-01-01",
+                "summary": "Azel, jeune diplômé de Tanger, rêve de rejoindre l'Espagne."
+            },
+            {
+                "title": "Au pays",
+                "publication_date": "2009-01-01",
+                "summary": "Un ouvrier marocain à la retraite revient au pays."
+            }
+        ]
+    },
+    {
+        "firstname": "Assia",
+        "lastname": "Djebar",
+        "birthdate": "1936-06-30",
+        "email": "assia.djebar@example.com",
+        "books": [
+            {
+                "title": "La Soif",
+                "publication_date": "1957-01-01",
+                "summary": "Nadia, jeune Algéroise de la bourgeoisie, s'ennuie et manipule son entourage."
+            },
+            {
+                "title": "Les Enfants du nouveau monde",
+                "publication_date": "1962-01-01",
+                "summary": "Des femmes et des hommes d'une ville algérienne pendant la guerre d'indépendance."
+            },
+            {
+                "title": "Femmes d'Alger dans leur appartement",
+                "publication_date": "1980-01-01",
+                "summary": "Recueil de nouvelles sur les femmes algériennes."
+            },
+            {
+                "title": "L'Amour, la fantasia",
+                "publication_date": "1985-01-01",
+                "summary": "Entre autobiographie et histoire de la conquête de l'Algérie."
+            },
+            {
+                "title": "Ombre sultane",
+                "publication_date": "1987-01-01",
+                "summary": "Deux épouses d'un même homme, l'une traditionnelle, l'autre émancipée."
+            },
+            {
+                "title": "Vaste est la prison",
+                "publication_date": "1995-01-01",
+                "summary": "Réflexion sur la langue, la condition des femmes et l'histoire algérienne."
+            },
+            {
+                "title": "Nulle part dans la maison de mon père",
+                "publication_date": "2007-01-01",
+                "summary": "Récit autobiographique de l'adolescence de l'autrice."
+            }
+        ]
+    },
+    {
+        "firstname": "Mohammed",
+        "lastname": "Dib",
+        "birthdate": "1920-07-21",
+        "email": "mohammed.dib@example.com",
+        "books": [
+            {
+                "title": "La Grande Maison",
+                "publication_date": "1952-01-01",
+                "summary": "Omar, enfant pauvre de Tlemcen, grandit dans une maison collective pendant la colonisation."
+            },
+            {
+                "title": "L'Incendie",
+                "publication_date": "1954-01-01",
+                "summary": "Omar découvre l'éveil politique des paysans algériens."
+            },
+            {
+                "title": "Le Métier à tisser",
+                "publication_date": "1957-01-01",
+                "summary": "Omar, devenu apprenti tisserand, découvre l'exploitation des ouvriers."
+            },
+            {
+                "title": "Qui se souvient de la mer",
+                "publication_date": "1962-01-01",
+                "summary": "Roman onirique sur la guerre d'Algérie, dans une ville en proie à des forces mystérieuses."
+            },
+            {
+                "title": "Cours sur la rive sauvage",
+                "publication_date": "1964-01-01"
+            },
+            {
+                "title": "Habel",
+                "publication_date": "1977-01-01",
+                "summary": "Un jeune Algérien exilé à Paris erre dans la ville."
+            }
+        ]
+    },
+    {
+        "firstname": "Kamel",
+        "lastname": "Daoud",
+        "birthdate": "1970-06-17",
+        "email": "kamel.daoud@example.com",
+        "books": [
+            {
+                "title": "Meursault, contre-enquête",
+                "publication_date": "2013-01-01",
+                "summary": "Le frère de « l'Arabe » tué dans L'Étranger de Camus raconte son histoire."
+            },
+            {
+                "title": "Zabor ou Les Psaumes",
+                "publication_date": "2017-01-01",
+                "summary": "Zabor, jeune homme solitaire, croit pouvoir retarder la mort des autres en écrivant."
+            },
+            {
+                "title": "Houris",
+                "publication_date": "2024-01-01",
+                "summary": "Aube, jeune femme muette depuis un massacre, porte la mémoire de la guerre civile algérienne."
+            }
+        ]
+    },
+    {
+        "firstname": "Driss",
+        "lastname": "Chraïbi",
+        "birthdate": "1926-07-15",
+        "email": "driss.chraibi@example.com",
+        "books": [
+            {
+                "title": "Le Passé simple",
+                "publication_date": "1954-01-01",
+                "summary": "Driss, jeune Marocain, se révolte contre l'autorité de son père."
+            },
+            {
+                "title": "Les Boucs",
+                "publication_date": "1955-01-01",
+                "summary": "La misère des travailleurs nord-africains en France."
+            },
+            {
+                "title": "La Civilisation, ma mère !...",
+                "publication_date": "1972-01-01",
+                "summary": "Deux fils racontent l'émancipation de leur mère au contact du monde moderne."
+            },
+            {
+                "title": "Une enquête au pays",
+                "publication_date": "1981-01-01",
+                "summary": "L'inspecteur Ali mène une enquête dans un village berbère de l'Atlas."
+            },
+            {
+                "title": "La Mère du printemps",
+                "publication_date": "1982-01-01",
+                "summary": "L'histoire d'une tribu berbère au moment de la conquête arabe."
+            },
+            {
+                "title": "L'Inspecteur Ali",
+                "publication_date": "1991-01-01",
+                "summary": "L'inspecteur Ali dans une enquête pleine d'humour."
+            }
+        ]
+    },
+    {
+        "firstname": "Leïla",
+        "lastname": "Slimani",
+        "birthdate": "1981-10-03",
+        "email": "leila.slimani@example.com",
+        "books": [
+            {
+                "title": "Dans le jardin de l'ogre",
+                "publication_date": "2014-01-01",
+                "summary": "Adèle, journaliste parisienne, mène une double vie dévorée par l'addiction."
+            },
+            {
+                "title": "Chanson douce",
+                "publication_date": "2016-01-01",
+                "summary": "Une nourrice en apparence parfaite commet l'irréparable."
+            },
+            {
+                "title": "Sexe et mensonges",
+                "publication_date": "2017-01-01",
+                "summary": "Témoignages de femmes marocaines sur leur vie sexuelle."
+            },
+            {
+                "title": "Le Pays des autres",
+                "publication_date": "2020-01-01",
+                "summary": "Mathilde, Alsacienne, suit son mari marocain au Maroc après la Seconde Guerre mondiale."
+            },
+            {
+                "title": "Regardez-nous danser",
+                "publication_date": "2022-01-01",
+                "summary": "Suite du Pays des autres, dans le Maroc des années 1960."
+            },
+            {
+                "title": "J'emporterai le feu",
+                "publication_date": "2025-01-01",
+                "summary": "Dernier volet de la trilogie familiale, avec les petits-enfants de Mathilde."
+            }
+        ]
+    },
+    {
+        "firstname": "Mia",
+        "lastname": "Couto",
+        "birthdate": "1955-07-05",
+        "email": "mia.couto@example.com",
+        "books": [
+            {
+                "title": "Terra Sonâmbula",
+                "publication_date": "1992-01-01",
+                "summary": "Pendant la guerre civile au Mozambique, un vieil homme et un enfant découvrent des cahiers qui racontent une autre histoire."
+            },
+            {
+                "title": "A Varanda do Frangipani",
+                "publication_date": "1996-01-01",
+                "summary": "Un inspecteur enquête sur un meurtre dans un asile de vieillards installé dans une ancienne forteresse."
+            },
+            {
+                "title": "O Último Voo do Flamingo",
+                "publication_date": "2000-01-01",
+                "summary": "Dans un village mozambicain, la disparition mystérieuse de casques bleus déclenche une enquête."
+            },
+            {
+                "title": "Venenos de Deus, Remédios do Diabo",
+                "publication_date": "2008-01-01",
+                "summary": "Un médecin portugais arrive dans une petite ville du Mozambique."
+            },
+            {
+                "title": "Jesusalém",
+                "publication_date": "2009-01-01",
+                "summary": "Un père isole ses fils dans une réserve de chasse abandonnée, loin du monde."
+            },
+            {
+                "title": "A Confissão da Leoa",
+                "publication_date": "2012-01-01",
+                "summary": "Des chasseurs sont appelés dans un village attaqué par des lions."
+            },
+            {
+                "title": "Mulheres de Cinza",
+                "publication_date": "2015-01-01",
+                "summary": "Premier volet d'une trilogie sur la fin de l'empire de Gaza au XIXe siècle."
+            }
+        ]
+    },
+    {
+        "firstname": "Pepetela",
+        "lastname": "(Artur Pestana dos Santos)",
+        "birthdate": "1941-10-29",
+        "email": "pepetela@example.com",
+        "books": [
+            {
+                "title": "Mayombe",
+                "publication_date": "1980-01-01",
+                "summary": "Un groupe de guérilleros dans la forêt du Mayombe pendant la guerre d'indépendance angolaise."
+            },
+            {
+                "title": "Yaka",
+                "publication_date": "1984-01-01",
+                "summary": "Une famille de colons à Benguela, de la fin du XIXe siècle à l'indépendance."
+            },
+            {
+                "title": "A Geração da Utopia",
+                "publication_date": "1992-01-01",
+                "summary": "Le destin d'une génération de militants angolais, de l'utopie révolutionnaire à la désillusion."
+            },
+            {
+                "title": "O Desejo de Kianda",
+                "publication_date": "1995-01-01",
+                "summary": "À Luanda, des immeubles s'effondrent mystérieusement, comme sous l'effet de l'esprit des eaux Kianda."
+            },
+            {
+                "title": "A Gloriosa Família",
+                "publication_date": "1997-01-01",
+                "summary": "Une famille de Luanda pendant l'occupation hollandaise au XVIIe siècle."
+            },
+            {
+                "title": "Jaime Bunda, Agente Secreto",
+                "publication_date": "2001-01-01",
+                "summary": "Parodie de roman d'espionnage dans le Luanda contemporain."
+            }
+        ]
+    },
+    {
+        "firstname": "José Eduardo",
+        "lastname": "Agualusa",
+        "birthdate": "1960-12-13",
+        "email": "jose.agualusa@example.com",
+        "books": [
+            {
+                "title": "Nação Crioula",
+                "publication_date": "1997-01-01",
+                "summary": "Correspondance imaginaire entre Lisbonne, Luanda et le Brésil au XIXe siècle."
+            },
+            {
+                "title": "O Vendedor de Passados",
+                "publication_date": "2004-01-01",
+                "summary": "À Luanda, un homme fabrique de faux passés pour les nouveaux riches ; l'histoire est racontée par un gecko."
+            },
+            {
+                "title": "Teoria Geral do Esquecimento",
+                "publication_date": "2012-01-01",
+                "summary": "Une Portugaise s'emmure dans son appartement de Luanda pendant près de trente ans."
+            },
+            {
+                "title": "A Sociedade dos Sonhadores Involuntários",
+                "publication_date": "2017-01-01",
+                "summary": "Un journaliste angolais découvre qu'il peut partager les rêves des autres."
+            }
+        ]
+    },
+    {
+        "firstname": "Abdulrazak",
+        "lastname": "Gurnah",
+        "birthdate": "1948-12-20",
+        "email": "abdulrazak.gurnah@example.com",
+        "books": [
+            {
+                "title": "Memory of Departure",
+                "publication_date": "1987-01-01",
+                "summary": "Hassan, jeune homme de la côte est-africaine, cherche à fuir sa famille."
+            },
+            {
+                "title": "Paradise",
+                "publication_date": "1994-01-01",
+                "summary": "Yusuf, cédé par son père pour payer une dette, accompagne un marchand dans l'Afrique de l'Est précoloniale."
+            },
+            {
+                "title": "Admiring Silence",
+                "publication_date": "1996-01-01",
+                "summary": "Un immigré de Zanzibar en Angleterre revient au pays après vingt ans."
+            },
+            {
+                "title": "By the Sea",
+                "publication_date": "2001-01-01",
+                "summary": "Un vieil homme de Zanzibar demande l'asile en Angleterre."
+            },
+            {
+                "title": "Desertion",
+                "publication_date": "2005-01-01",
+                "summary": "Une histoire d'amour entre un Anglais et une femme de la côte est-africaine en 1899, et ses répercussions."
+            },
+            {
+                "title": "Gravel Heart",
+                "publication_date": "2017-01-01",
+                "summary": "Salim, jeune Zanzibarite, découvre en Angleterre les secrets de sa famille."
+            },
+            {
+                "title": "Afterlives",
+                "publication_date": "2020-01-01",
+                "summary": "Le destin de jeunes gens en Afrique orientale allemande, pendant et après la Première Guerre mondiale."
+            },
+            {
+                "title": "Theft",
+                "publication_date": "2025-01-01",
+                "summary": "Trois jeunes gens grandissent ensemble en Tanzanie."
+            }
+        ]
+    },
+    {
+        "firstname": "Yvonne",
+        "lastname": "Vera",
+        "birthdate": "1964-09-19",
+        "email": "yvonne.vera@example.com",
+        "books": [
+            {
+                "title": "Nehanda",
+                "publication_date": "1993-01-01",
+                "summary": "Roman inspiré de la médium Nehanda et de la résistance au colonialisme."
+            },
+            {
+                "title": "Without a Name",
+                "publication_date": "1994-01-01",
+                "summary": "Mazvita, jeune femme, quitte la campagne pour Harare pendant la guerre."
+            },
+            {
+                "title": "Under the Tongue",
+                "publication_date": "1996-01-01",
+                "summary": "Zhizha, petite fille, retrouve la parole après un traumatisme familial."
+            },
+            {
+                "title": "Butterfly Burning",
+                "publication_date": "1998-01-01",
+                "summary": "Phephelaphi, jeune femme, rêve d'émancipation dans la Rhodésie des années 1940."
+            },
+            {
+                "title": "The Stone Virgins",
+                "publication_date": "2002-01-01",
+                "summary": "Les violences au Matabeleland dans les années 1980, vécues par deux sœurs."
+            }
+        ]
+    },
+    {
+        "firstname": "Léonora",
+        "lastname": "Miano",
+        "birthdate": "1973-03-12",
+        "email": "leonora.miano@example.com",
+        "books": [
+            {
+                "title": "L'Intérieur de la nuit",
+                "publication_date": "2005-01-01",
+                "summary": "Dans un village d'Afrique centrale, des miliciens imposent un rituel sanglant."
+            },
+            {
+                "title": "Contours du jour qui vient",
+                "publication_date": "2006-01-01",
+                "summary": "Musango, fillette rejetée par sa mère, erre dans une ville en ruines."
+            },
+            {
+                "title": "Tels des astres éteints",
+                "publication_date": "2008-01-01"
+            },
+            {
+                "title": "Blues pour Élise",
+                "publication_date": "2010-01-01",
+                "summary": "La vie de jeunes Parisiennes afrodescendantes."
+            },
+            {
+                "title": "La Saison de l'ombre",
+                "publication_date": "2013-01-01",
+                "summary": "Dans un village, des mères attendent leurs fils disparus au début de la traite négrière."
+            },
+            {
+                "title": "Crépuscule du tourment",
+                "publication_date": "2016-01-01",
+                "summary": "Quatre femmes s'adressent au même homme absent."
+            },
+            {
+                "title": "Rouge impératrice",
+                "publication_date": "2019-01-01",
+                "summary": "Dans une Afrique unifiée du futur, une histoire d'amour sur fond de débats politiques."
+            }
+        ]
+    },
+    {
+        "firstname": "Dambudzo",
+        "lastname": "Marechera",
+        "birthdate": "1952-06-04",
+        "email": "dambudzo.marechera@example.com",
+        "books": [
+            {
+                "title": "The House of Hunger",
+                "publication_date": "1978-01-01",
+                "summary": "Nouvelles sur la violence et la misère dans les townships de Rhodésie."
+            },
+            {
+                "title": "Black Sunlight",
+                "publication_date": "1980-01-01",
+                "summary": "Roman expérimental sur un photographe pris entre des groupes révolutionnaires."
+            },
+            {
+                "title": "Mindblast",
+                "publication_date": "1984-01-01",
+                "summary": "Textes, poèmes et pièces écrits après le retour de l'auteur dans le Zimbabwe indépendant."
+            }
+        ]
+    },
+    {
+        "firstname": "Peter",
+        "lastname": "Abrahams",
+        "birthdate": "1919-03-03",
+        "email": "peter.abrahams@example.com",
+        "books": [
+            {
+                "title": "Mine Boy",
+                "publication_date": "1946-01-01",
+                "summary": "Xuma quitte la campagne pour travailler dans les mines d'or de Johannesburg."
+            },
+            {
+                "title": "The Path of Thunder",
+                "publication_date": "1948-01-01",
+                "summary": "Un jeune métis instruit revient dans son village et tombe amoureux d'une Blanche."
+            },
+            {
+                "title": "Tell Freedom",
+                "publication_date": "1954-01-01",
+                "summary": "Récit autobiographique de l'enfance de l'auteur dans les quartiers pauvres de Johannesburg."
+            },
+            {
+                "title": "A Wreath for Udomo",
+                "publication_date": "1956-01-01",
+                "summary": "Un dirigeant nationaliste africain prend le pouvoir et se heurte aux compromis."
+            },
+            {
+                "title": "This Island Now",
+                "publication_date": "1966-01-01",
+                "summary": "La prise de pouvoir d'un nouveau président dans une île des Caraïbes."
+            }
+        ]
+    },
+    {
+        "firstname": "Okot",
+        "lastname": "p'Bitek",
+        "birthdate": "1931-06-07",
+        "email": "okot.pbitek@example.com",
+        "books": [
+            {
+                "title": "Song of Lawino",
+                "publication_date": "1966-01-01",
+                "summary": "Long poème : Lawino reproche à son mari d'avoir renié la culture acholi."
+            },
+            {
+                "title": "Song of Ocol",
+                "publication_date": "1970-01-01",
+                "summary": "Réponse d'Ocol, le mari de Lawino, qui défend la modernité occidentale."
+            },
+            {
+                "title": "Two Songs",
+                "publication_date": "1971-01-01",
+                "summary": "Deux longs poèmes : Song of Prisoner et Song of Malaya."
+            }
+        ]
+    },
+    {
+        "firstname": "Meja",
+        "lastname": "Mwangi",
+        "birthdate": "1948-12-27",
+        "email": "meja.mwangi@example.com",
+        "books": [
+            {
+                "title": "Kill Me Quick",
+                "publication_date": "1973-01-01",
+                "summary": "Deux jeunes diplômés sans emploi survivent dans les rues de Nairobi."
+            },
+            {
+                "title": "Carcase for Hounds",
+                "publication_date": "1974-01-01",
+                "summary": "Un général de la guérilla Mau Mau, blessé, se cache dans la forêt."
+            },
+            {
+                "title": "Going Down River Road",
+                "publication_date": "1976-01-01",
+                "summary": "Ben, ouvrier du bâtiment, vit au jour le jour dans les bas-fonds de Nairobi."
+            },
+            {
+                "title": "The Cockroach Dance",
+                "publication_date": "1979-01-01",
+                "summary": "La vie des habitants d'un immeuble délabré de Nairobi."
+            },
+            {
+                "title": "The Last Plague",
+                "publication_date": "2000-01-01",
+                "summary": "Un village kenyan face à l'épidémie de sida."
+            }
+        ]
+    },
+    {
+        "firstname": "Alex",
+        "lastname": "La Guma",
+        "birthdate": "1925-02-20",
+        "email": "alex.laguma@example.com",
+        "books": [
+            {
+                "title": "A Walk in the Night",
+                "publication_date": "1962-01-01",
+                "summary": "Une nuit dans le District Six du Cap : Michael Adonis, licencié, commet un meurtre."
+            },
+            {
+                "title": "And a Threefold Cord",
+                "publication_date": "1964-01-01",
+                "summary": "Une famille pauvre lutte pour survivre dans un bidonville du Cap."
+            },
+            {
+                "title": "In the Fog of the Seasons' End",
+                "publication_date": "1972-01-01",
+                "summary": "Des militants clandestins luttent contre l'apartheid."
+            },
+            {
+                "title": "Time of the Butcherbird",
+                "publication_date": "1979-01-01",
+                "summary": "Les déplacements forcés de populations noires sous l'apartheid."
+            }
+        ]
+    },
+    {
+        "firstname": "Albert",
+        "lastname": "Memmi",
+        "birthdate": "1920-12-15",
+        "email": "albert.memmi@example.com",
+        "books": [
+            {
+                "title": "La Statue de sel",
+                "publication_date": "1953-01-01",
+                "summary": "Récit d'apprentissage d'un jeune juif tunisien pauvre, entre plusieurs cultures."
+            },
+            {
+                "title": "Agar",
+                "publication_date": "1955-01-01",
+                "summary": "Un Tunisien revient dans son pays avec son épouse française ; le couple se déchire."
+            },
+            {
+                "title": "Portrait du colonisé",
+                "publication_date": "1957-01-01",
+                "summary": "Essai sur la relation entre colonisateur et colonisé."
+            },
+            {
+                "title": "Le Racisme",
+                "publication_date": "1982-01-01",
+                "summary": "Essai sur les mécanismes du racisme."
+            }
+        ]
+    },
+    {
+        "firstname": "Francis",
+        "lastname": "Bebey",
+        "birthdate": "1929-07-15",
+        "email": "francis.bebey@example.com",
+        "books": [
+            {
+                "title": "Le Fils d'Agatha Moudio",
+                "publication_date": "1967-01-01",
+                "summary": "Mbenda, jeune pêcheur, est tiraillé entre l'épouse choisie par les anciens et la belle Agatha Moudio."
+            },
+            {
+                "title": "La Poupée ashanti",
+                "publication_date": "1973-01-01",
+                "summary": "Une jeune vendeuse du marché d'Accra pendant les luttes politiques au Ghana."
+            },
+            {
+                "title": "Le Roi Albert d'Effidi",
+                "publication_date": "1976-01-01",
+                "summary": "Un riche commerçant de village se lance en politique à la veille de l'indépendance."
+            }
+        ]
+    },
+    {
+        "firstname": "Olympe",
+        "lastname": "Bhêly-Quenum",
+        "birthdate": "1928-09-20",
+        "email": "olympe.bhelyquenum@example.com",
+        "books": [
+            {
+                "title": "Un piège sans fin",
+                "publication_date": "1960-01-01",
+                "summary": "Ahouna, paysan dahoméen, voit sa vie basculer dans la jalousie et le crime."
+            },
+            {
+                "title": "Le Chant du lac",
+                "publication_date": "1965-01-01",
+                "summary": "Des villageois du Dahomey affrontent les croyances liées aux dieux du lac."
+            },
+            {
+                "title": "L'Initié",
+                "publication_date": "1979-01-01",
+                "summary": "Un médecin revenu de France affronte un sorcier dans son pays natal."
+            }
+        ]
+    },
+    {
+        "firstname": "Amadou",
+        "lastname": "Hampâté Bâ",
+        "birthdate": "1901-01-01",
+        "email": "amadou.hampateba@example.com",
+        "books": [
+            {
+                "title": "L'Étrange Destin de Wangrin",
+                "publication_date": "1973-01-01",
+                "summary": "Les ruses et la chute d'un interprète de l'administration coloniale en Afrique de l'Ouest."
+            },
+            {
+                "title": "Vie et enseignement de Tierno Bokar",
+                "publication_date": "1980-01-01",
+                "summary": "Portrait du maître spirituel de l'auteur à Bandiagara."
+            },
+            {
+                "title": "Amkoullel, l'enfant peul",
+                "publication_date": "1991-01-01",
+                "summary": "Mémoires de l'enfance de l'auteur au Mali au début du XXe siècle."
+            },
+            {
+                "title": "Oui mon commandant !",
+                "publication_date": "1994-01-01",
+                "summary": "Suite des mémoires : la jeunesse de l'auteur au service de l'administration coloniale."
+            }
+        ]
+    },
+    {
+        "firstname": "Nazi",
+        "lastname": "Boni",
+        "birthdate": "1909-01-01",
+        "email": "nazi.boni@example.com",
+        "books": [
+            {
+                "title": "Crépuscule des temps anciens",
+                "publication_date": "1962-01-01",
+                "summary": "Chronique du pays bwa, au Burkina Faso, avant et pendant l'arrivée des colonisateurs."
+            }
+        ]
+    },
+    {
+        "firstname": "Monique",
+        "lastname": "Ilboudo",
+        "birthdate": "1959-01-01",
+        "email": "monique.ilboudo@example.com",
+        "books": [
+            {
+                "title": "Le Mal de peau",
+                "publication_date": "1992-01-01"
+            },
+            {
+                "title": "Murekatete",
+                "publication_date": "2000-01-01",
+                "summary": "Roman écrit dans le cadre du projet « Rwanda : écrire par devoir de mémoire »."
+            },
+            {
+                "title": "Si loin de ma vie",
+                "publication_date": "2018-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Norbert",
+        "lastname": "Zongo",
+        "birthdate": "1949-01-01",
+        "email": "norbert.zongo@example.com",
+        "books": [
+            {
+                "title": "Le Parachutage",
+                "publication_date": "1988-01-01"
+            },
+            {
+                "title": "Rougbêinga",
+                "publication_date": "1990-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Titinga Frédéric",
+        "lastname": "Pacéré",
+        "birthdate": "1943-01-01",
+        "email": "titinga.pacere@example.com",
+        "books": [
+            {
+                "title": "Refrains sous le Sahel",
+                "publication_date": "1976-01-01",
+                "summary": "Recueil de poèmes."
+            },
+            {
+                "title": "Ça tire sous le Sahel",
+                "publication_date": "1976-01-01",
+                "summary": "Recueil de poèmes."
+            }
+        ]
+    },
+    {
+        "firstname": "Massa Makan",
+        "lastname": "Diabaté",
+        "birthdate": "1938-01-01",
+        "email": "massamakan.diabate@example.com",
+        "books": [
+            {
+                "title": "Le Lieutenant de Kouta",
+                "publication_date": "1979-01-01",
+                "summary": "Un ancien militaire revient s'installer à Kouta, petite ville du Mali."
+            },
+            {
+                "title": "Le Coiffeur de Kouta",
+                "publication_date": "1980-01-01",
+                "summary": "La vie de Kouta à travers son coiffeur, Kompè."
+            },
+            {
+                "title": "Le Boucher de Kouta",
+                "publication_date": "1982-01-01",
+                "summary": "Dernier volet de la trilogie de Kouta."
+            }
+        ]
+    },
+    {
+        "firstname": "Yambo",
+        "lastname": "Ouologuem",
+        "birthdate": "1940-08-22",
+        "email": "yambo.ouologuem@example.com",
+        "books": [
+            {
+                "title": "Le Devoir de violence",
+                "publication_date": "1968-01-01",
+                "summary": "L'histoire d'une dynastie africaine imaginaire, l'empire du Nakem, sur plusieurs siècles."
+            },
+            {
+                "title": "Lettre à la France nègre",
+                "publication_date": "1968-01-01",
+                "summary": "Pamphlet satirique."
+            }
+        ]
+    },
+    {
+        "firstname": "Kossi",
+        "lastname": "Efoui",
+        "birthdate": "1962-01-01",
+        "email": "kossi.efoui@example.com",
+        "books": [
+            {
+                "title": "La Polka",
+                "publication_date": "1998-01-01"
+            },
+            {
+                "title": "La Fabrique de cérémonies",
+                "publication_date": "2001-01-01"
+            },
+            {
+                "title": "Solo d'un revenant",
+                "publication_date": "2008-01-01",
+                "summary": "Un homme revient dans son pays après une guerre civile."
+            }
+        ]
+    },
+    {
+        "firstname": "Sami",
+        "lastname": "Tchak",
+        "birthdate": "1960-01-01",
+        "email": "sami.tchak@example.com",
+        "books": [
+            {
+                "title": "Place des fêtes",
+                "publication_date": "2001-01-01",
+                "summary": "Le monologue cru d'un fils d'immigrés de la banlieue parisienne."
+            },
+            {
+                "title": "Hermina",
+                "publication_date": "2003-01-01"
+            },
+            {
+                "title": "La Fête des masques",
+                "publication_date": "2004-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Jean-Marie",
+        "lastname": "Adiaffi",
+        "birthdate": "1941-01-01",
+        "email": "jeanmarie.adiaffi@example.com",
+        "books": [
+            {
+                "title": "La Carte d'identité",
+                "publication_date": "1980-01-01",
+                "summary": "Un prince agni, arrêté faute de carte d'identité, part à la recherche de son identité."
+            },
+            {
+                "title": "Silence, on développe",
+                "publication_date": "1992-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Abdoulaye",
+        "lastname": "Sadji",
+        "birthdate": "1910-01-01",
+        "email": "abdoulaye.sadji@example.com",
+        "books": [
+            {
+                "title": "Maïmouna",
+                "publication_date": "1953-01-01",
+                "summary": "Une jeune fille quitte son village pour Dakar et découvre les mirages de la ville."
+            },
+            {
+                "title": "Nini, mulâtresse du Sénégal",
+                "publication_date": "1954-01-01",
+                "summary": "Une jeune métisse de Saint-Louis rejette ses origines africaines."
+            }
+        ]
+    },
+    {
+        "firstname": "Fatou",
+        "lastname": "Diome",
+        "birthdate": "1968-01-01",
+        "email": "fatou.diome@example.com",
+        "books": [
+            {
+                "title": "Le Ventre de l'Atlantique",
+                "publication_date": "2003-01-01",
+                "summary": "Salie, installée en France, et son frère resté au Sénégal, qui rêve de football et d'Europe."
+            },
+            {
+                "title": "Kétala",
+                "publication_date": "2006-01-01",
+                "summary": "Après la mort de Mémoria, ses objets racontent sa vie."
+            },
+            {
+                "title": "Celles qui attendent",
+                "publication_date": "2010-01-01",
+                "summary": "Deux mères attendent leurs fils partis en pirogue vers l'Europe."
+            },
+            {
+                "title": "Les Veilleurs de Sangomar",
+                "publication_date": "2019-01-01",
+                "summary": "Une veuve de l'île de Niodior dialogue avec les esprits après le naufrage du Joola."
+            }
+        ]
+    },
+    {
+        "firstname": "Cheikh Anta",
+        "lastname": "Diop",
+        "birthdate": "1923-12-29",
+        "email": "cheikhanta.diop@example.com",
+        "books": [
+            {
+                "title": "Nations nègres et culture",
+                "publication_date": "1954-01-01",
+                "summary": "Essai sur l'origine africaine de la civilisation égyptienne."
+            },
+            {
+                "title": "L'Unité culturelle de l'Afrique noire",
+                "publication_date": "1959-01-01",
+                "summary": "Essai sur les traits communs des sociétés africaines."
+            },
+            {
+                "title": "Antériorité des civilisations nègres",
+                "publication_date": "1967-01-01",
+                "summary": "Essai d'histoire sur l'Égypte ancienne et l'Afrique."
+            },
+            {
+                "title": "Civilisation ou barbarie",
+                "publication_date": "1981-01-01",
+                "summary": "Essai d'anthropologie."
+            }
+        ]
+    },
+    {
+        "firstname": "David",
+        "lastname": "Diop",
+        "birthdate": "1966-01-01",
+        "email": "david.diop@example.com",
+        "books": [
+            {
+                "title": "Frère d'âme",
+                "publication_date": "2018-01-01",
+                "summary": "Alfa Ndiaye, tirailleur sénégalais, sombre dans la folie après la mort de son ami dans les tranchées."
+            },
+            {
+                "title": "La Porte du voyage sans retour",
+                "publication_date": "2021-01-01",
+                "summary": "Le botaniste Michel Adanson au Sénégal au XVIIIe siècle, sur les traces d'une jeune femme."
+            }
+        ]
+    },
+    {
+        "firstname": "Scholastique",
+        "lastname": "Mukasonga",
+        "birthdate": "1956-01-01",
+        "email": "scholastique.mukasonga@example.com",
+        "books": [
+            {
+                "title": "Inyenzi ou les Cafards",
+                "publication_date": "2006-01-01",
+                "summary": "Récit autobiographique de la persécution des Tutsi au Rwanda."
+            },
+            {
+                "title": "La Femme aux pieds nus",
+                "publication_date": "2008-01-01",
+                "summary": "Hommage à la mère de l'autrice, tuée pendant le génocide."
+            },
+            {
+                "title": "Notre-Dame du Nil",
+                "publication_date": "2012-01-01",
+                "summary": "Dans un lycée de jeunes filles au Rwanda, la montée de la haine ethnique."
+            },
+            {
+                "title": "Kibogo est monté au ciel",
+                "publication_date": "2020-01-01",
+                "summary": "Un village rwandais face à l'arrivée des missionnaires."
+            }
+        ]
+    },
+    {
+        "firstname": "Gaël",
+        "lastname": "Faye",
+        "birthdate": "1982-08-06",
+        "email": "gael.faye@example.com",
+        "books": [
+            {
+                "title": "Petit Pays",
+                "publication_date": "2016-01-01",
+                "summary": "Gabriel, enfant à Bujumbura, voit son monde basculer avec la guerre civile et le génocide au Rwanda voisin."
+            },
+            {
+                "title": "Jacaranda",
+                "publication_date": "2024-01-01",
+                "summary": "Milan, jeune Français, découvre l'histoire rwandaise de sa mère."
+            }
+        ]
+    },
+    {
+        "firstname": "In Koli Jean",
+        "lastname": "Bofane",
+        "birthdate": "1954-01-01",
+        "email": "inkoli.bofane@example.com",
+        "books": [
+            {
+                "title": "Mathématiques congolaises",
+                "publication_date": "2008-01-01",
+                "summary": "Célio Matemona, jeune débrouillard de Kinshasa, met ses talents de calcul au service du pouvoir."
+            },
+            {
+                "title": "Congo Inc.",
+                "publication_date": "2014-01-01",
+                "summary": "Isookanga, jeune Pygmée, quitte la forêt pour Kinshasa et rêve de mondialisation."
+            }
+        ]
+    },
+    {
+        "firstname": "Fiston",
+        "lastname": "Mwanza Mujila",
+        "birthdate": "1981-01-01",
+        "email": "fiston.mujila@example.com",
+        "books": [
+            {
+                "title": "Tram 83",
+                "publication_date": "2014-01-01",
+                "summary": "Dans une ville minière du Congo, la vie nocturne d'un bar où se croisent écrivains, trafiquants et creuseurs."
+            },
+            {
+                "title": "La Danse du vilain",
+                "publication_date": "2020-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Djaïli",
+        "lastname": "Amadou Amal",
+        "birthdate": "1975-01-01",
+        "email": "djaili.amadouamal@example.com",
+        "books": [
+            {
+                "title": "Walaande",
+                "publication_date": "2010-01-01",
+                "summary": "La vie de quatre coépouses dans une famille polygame du nord du Cameroun."
+            },
+            {
+                "title": "Mistiriijo",
+                "publication_date": "2013-01-01"
+            },
+            {
+                "title": "Les Impatientes",
+                "publication_date": "2020-01-01",
+                "summary": "Trois femmes du Sahel face au mariage forcé et à la polygamie."
+            },
+            {
+                "title": "Cœur du Sahel",
+                "publication_date": "2022-01-01",
+                "summary": "Faydé, jeune domestique, quitte son village pour travailler à Maroua."
+            }
+        ]
+    },
+    {
+        "firstname": "Patrice",
+        "lastname": "Nganang",
+        "birthdate": "1970-01-01",
+        "email": "patrice.nganang@example.com",
+        "books": [
+            {
+                "title": "Temps de chien",
+                "publication_date": "2001-01-01",
+                "summary": "La vie d'un quartier de Yaoundé vue par un chien."
+            },
+            {
+                "title": "La Joie de vivre",
+                "publication_date": "2003-01-01"
+            },
+            {
+                "title": "Mont Plaisant",
+                "publication_date": "2011-01-01",
+                "summary": "Une étudiante enquête sur l'histoire du sultan Njoya et du Cameroun colonial."
+            }
+        ]
+    },
+    {
+        "firstname": "Kofi",
+        "lastname": "Awoonor",
+        "birthdate": "1935-03-13",
+        "email": "kofi.awoonor@example.com",
+        "books": [
+            {
+                "title": "Rediscovery and Other Poems",
+                "publication_date": "1964-01-01",
+                "summary": "Recueil de poèmes."
+            },
+            {
+                "title": "Night of My Blood",
+                "publication_date": "1971-01-01",
+                "summary": "Recueil de poèmes."
+            },
+            {
+                "title": "This Earth, My Brother",
+                "publication_date": "1971-01-01",
+                "summary": "Roman poétique sur un avocat ghanéen désabusé."
+            }
+        ]
+    },
+    {
+        "firstname": "Helon",
+        "lastname": "Habila",
+        "birthdate": "1967-01-01",
+        "email": "helon.habila@example.com",
+        "books": [
+            {
+                "title": "Waiting for an Angel",
+                "publication_date": "2002-01-01",
+                "summary": "Un jeune journaliste sous la dictature militaire au Nigeria."
+            },
+            {
+                "title": "Measuring Time",
+                "publication_date": "2007-01-01",
+                "summary": "Deux jumeaux d'un village nigérian prennent des chemins différents."
+            },
+            {
+                "title": "Oil on Water",
+                "publication_date": "2010-01-01",
+                "summary": "Deux journalistes partent dans le delta du Niger à la recherche d'une femme enlevée."
+            }
+        ]
+    },
+    {
+        "firstname": "Sefi",
+        "lastname": "Atta",
+        "birthdate": "1964-01-01",
+        "email": "sefi.atta@example.com",
+        "books": [
+            {
+                "title": "Everything Good Will Come",
+                "publication_date": "2005-01-01",
+                "summary": "L'amitié de deux jeunes femmes dans le Lagos des années 1970 à 1990."
+            },
+            {
+                "title": "Swallow",
+                "publication_date": "2008-01-01",
+                "summary": "Une employée de banque de Lagos est tentée par le trafic de drogue."
+            },
+            {
+                "title": "A Bit of Difference",
+                "publication_date": "2012-01-01",
+                "summary": "Deola, Nigériane installée à Londres, revient à Lagos pour son travail."
+            }
+        ]
+    },
+    {
+        "firstname": "Chigozie",
+        "lastname": "Obioma",
+        "birthdate": "1986-01-01",
+        "email": "chigozie.obioma@example.com",
+        "books": [
+            {
+                "title": "The Fishermen",
+                "publication_date": "2015-01-01",
+                "summary": "Quatre frères d'Akure voient leur vie bouleversée par la prophétie d'un fou."
+            },
+            {
+                "title": "An Orchestra of Minorities",
+                "publication_date": "2019-01-01",
+                "summary": "Un éleveur de volailles nigérian sacrifie tout pour épouser la femme qu'il aime."
+            }
+        ]
+    },
+    {
+        "firstname": "Teju",
+        "lastname": "Cole",
+        "birthdate": "1975-01-01",
+        "email": "teju.cole@example.com",
+        "books": [
+            {
+                "title": "Every Day Is for the Thief",
+                "publication_date": "2007-01-01",
+                "summary": "Un jeune homme revient à Lagos après quinze ans d'absence."
+            },
+            {
+                "title": "Open City",
+                "publication_date": "2011-01-01",
+                "summary": "Julius, psychiatre d'origine nigériane, arpente les rues de New York."
+            },
+            {
+                "title": "Tremor",
+                "publication_date": "2023-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Chris",
+        "lastname": "Abani",
+        "birthdate": "1966-01-01",
+        "email": "chris.abani@example.com",
+        "books": [
+            {
+                "title": "GraceLand",
+                "publication_date": "2004-01-01",
+                "summary": "Elvis, adolescent de Lagos, rêve de devenir danseur."
+            },
+            {
+                "title": "Song for Night",
+                "publication_date": "2007-01-01",
+                "summary": "Un enfant-soldat démineur cherche son unité pendant une guerre."
+            },
+            {
+                "title": "The Virgin of Flames",
+                "publication_date": "2007-01-01",
+                "summary": "Un artiste d'origine nigériane à Los Angeles."
+            }
+        ]
+    },
+    {
+        "firstname": "Ken",
+        "lastname": "Saro-Wiwa",
+        "birthdate": "1941-10-10",
+        "email": "ken.sarowiwa@example.com",
+        "books": [
+            {
+                "title": "Sozaboy",
+                "publication_date": "1985-01-01",
+                "summary": "La guerre du Biafra racontée par un jeune soldat naïf, dans un « anglais pourri »."
+            },
+            {
+                "title": "A Forest of Flowers",
+                "publication_date": "1986-01-01",
+                "summary": "Recueil de nouvelles."
+            },
+            {
+                "title": "A Month and a Day",
+                "publication_date": "1995-01-01",
+                "summary": "Journal de détention de l'auteur, militant pour le peuple ogoni."
+            }
+        ]
+    },
+    {
+        "firstname": "Yvonne Adhiambo",
+        "lastname": "Owuor",
+        "birthdate": "1968-01-01",
+        "email": "yvonne.owuor@example.com",
+        "books": [
+            {
+                "title": "Dust",
+                "publication_date": "2014-01-01",
+                "summary": "Après la mort de son frère, une jeune femme revient dans le nord du Kenya et découvre les secrets de sa famille."
+            },
+            {
+                "title": "The Dragonfly Sea",
+                "publication_date": "2019-01-01",
+                "summary": "Ayaana grandit sur l'île de Pate et part à la découverte du monde."
+            }
+        ]
+    },
+    {
+        "firstname": "Grace",
+        "lastname": "Ogot",
+        "birthdate": "1930-05-15",
+        "email": "grace.ogot@example.com",
+        "books": [
+            {
+                "title": "The Promised Land",
+                "publication_date": "1966-01-01",
+                "summary": "Un couple luo quitte le Kenya pour s'installer en Tanzanie."
+            },
+            {
+                "title": "Land Without Thunder",
+                "publication_date": "1968-01-01",
+                "summary": "Recueil de nouvelles."
+            },
+            {
+                "title": "The Graduate",
+                "publication_date": "1980-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Dinaw",
+        "lastname": "Mengestu",
+        "birthdate": "1978-01-01",
+        "email": "dinaw.mengestu@example.com",
+        "books": [
+            {
+                "title": "The Beautiful Things That Heaven Bears",
+                "publication_date": "2007-01-01",
+                "summary": "Un immigré éthiopien tient une épicerie dans un quartier de Washington."
+            },
+            {
+                "title": "How to Read the Air",
+                "publication_date": "2010-01-01"
+            },
+            {
+                "title": "All Our Names",
+                "publication_date": "2014-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Nadifa",
+        "lastname": "Mohamed",
+        "birthdate": "1981-01-01",
+        "email": "nadifa.mohamed@example.com",
+        "books": [
+            {
+                "title": "Black Mamba Boy",
+                "publication_date": "2010-01-01",
+                "summary": "Jama, jeune garçon somalien, traverse l'Afrique de l'Est dans les années 1930."
+            },
+            {
+                "title": "The Orchard of Lost Souls",
+                "publication_date": "2013-01-01",
+                "summary": "Trois femmes à Hargeisa à la veille de la guerre civile."
+            },
+            {
+                "title": "The Fortune Men",
+                "publication_date": "2021-01-01",
+                "summary": "Mahmood Mattan, marin somalien, est accusé à tort d'un meurtre à Cardiff en 1952."
+            }
+        ]
+    },
+    {
+        "firstname": "Tayeb",
+        "lastname": "Salih",
+        "birthdate": "1929-07-12",
+        "email": "tayeb.salih@example.com",
+        "books": [
+            {
+                "title": "Saison de la migration vers le nord",
+                "publication_date": "1966-01-01",
+                "summary": "Un narrateur soudanais découvre le passé trouble de Mustafa Saïd, revenu d'Angleterre."
+            }
+        ]
+    },
+    {
+        "firstname": "Leila",
+        "lastname": "Aboulela",
+        "birthdate": "1964-01-01",
+        "email": "leila.aboulela@example.com",
+        "books": [
+            {
+                "title": "The Translator",
+                "publication_date": "1999-01-01",
+                "summary": "Sammar, traductrice soudanaise devenue veuve, vit à Aberdeen."
+            },
+            {
+                "title": "Minaret",
+                "publication_date": "2005-01-01",
+                "summary": "Najwa, fille d'un ministre soudanais exilée à Londres, devient domestique."
+            },
+            {
+                "title": "Lyrics Alley",
+                "publication_date": "2010-01-01"
+            },
+            {
+                "title": "Bird Summons",
+                "publication_date": "2019-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Alaa",
+        "lastname": "El Aswany",
+        "birthdate": "1957-05-26",
+        "email": "alaa.elaswany@example.com",
+        "books": [
+            {
+                "title": "L'Immeuble Yacoubian",
+                "publication_date": "2002-01-01",
+                "summary": "Les habitants d'un immeuble du centre du Caire, reflet de la société égyptienne."
+            },
+            {
+                "title": "Chicago",
+                "publication_date": "2007-01-01",
+                "summary": "Des étudiants égyptiens à l'université de Chicago."
+            },
+            {
+                "title": "J'ai couru vers le Nil",
+                "publication_date": "2018-01-01",
+                "summary": "Des destins croisés pendant la révolution égyptienne de 2011."
+            }
+        ]
+    },
+    {
+        "firstname": "Albert",
+        "lastname": "Cossery",
+        "birthdate": "1913-11-03",
+        "email": "albert.cossery@example.com",
+        "books": [
+            {
+                "title": "Les Hommes oubliés de Dieu",
+                "publication_date": "1941-01-01",
+                "summary": "Nouvelles sur les pauvres du Caire."
+            },
+            {
+                "title": "Mendiants et Orgueilleux",
+                "publication_date": "1955-01-01",
+                "summary": "Un ancien professeur devenu mendiant au Caire commet un meurtre gratuit."
+            },
+            {
+                "title": "La Violence et la Dérision",
+                "publication_date": "1964-01-01",
+                "summary": "Des amis combattent un gouverneur par l'humour et la moquerie."
+            }
+        ]
+    },
+    {
+        "firstname": "Mouloud",
+        "lastname": "Feraoun",
+        "birthdate": "1913-03-08",
+        "email": "mouloud.feraoun@example.com",
+        "books": [
+            {
+                "title": "Le Fils du pauvre",
+                "publication_date": "1950-01-01",
+                "summary": "L'enfance de Fouroulou dans un village de Kabylie."
+            },
+            {
+                "title": "La Terre et le Sang",
+                "publication_date": "1953-01-01",
+                "summary": "Amer revient en Kabylie avec son épouse française."
+            },
+            {
+                "title": "Les Chemins qui montent",
+                "publication_date": "1957-01-01",
+                "summary": "Suite de La Terre et le Sang : la jeunesse du fils d'Amer."
+            }
+        ]
+    },
+    {
+        "firstname": "Mouloud",
+        "lastname": "Mammeri",
+        "birthdate": "1917-12-28",
+        "email": "mouloud.mammeri@example.com",
+        "books": [
+            {
+                "title": "La Colline oubliée",
+                "publication_date": "1952-01-01",
+                "summary": "Des jeunes d'un village kabyle pendant la Seconde Guerre mondiale."
+            },
+            {
+                "title": "Le Sommeil du juste",
+                "publication_date": "1955-01-01"
+            },
+            {
+                "title": "L'Opium et le Bâton",
+                "publication_date": "1965-01-01",
+                "summary": "Un médecin algérien rejoint le maquis pendant la guerre d'indépendance."
+            }
+        ]
+    },
+    {
+        "firstname": "Yacine",
+        "lastname": "Kateb",
+        "birthdate": "1929-01-01",
+        "email": "kateb.yacine@example.com",
+        "books": [
+            {
+                "title": "Nedjma",
+                "publication_date": "1956-01-01",
+                "summary": "Quatre jeunes hommes amoureux de la mystérieuse Nedjma."
+            },
+            {
+                "title": "Le Cercle des représailles",
+                "publication_date": "1959-01-01",
+                "summary": "Recueil de pièces de théâtre."
+            },
+            {
+                "title": "Le Polygone étoilé",
+                "publication_date": "1966-01-01",
+                "summary": "Prolongement de Nedjma, entre roman et poème."
+            }
+        ]
+    },
+    {
+        "firstname": "Rachid",
+        "lastname": "Boudjedra",
+        "birthdate": "1941-09-05",
+        "email": "rachid.boudjedra@example.com",
+        "books": [
+            {
+                "title": "La Répudiation",
+                "publication_date": "1969-01-01",
+                "summary": "Rachid raconte la répudiation de sa mère par son père."
+            },
+            {
+                "title": "Topographie idéale pour une agression caractérisée",
+                "publication_date": "1975-01-01",
+                "summary": "Un émigré algérien se perd dans le métro parisien."
+            },
+            {
+                "title": "L'Escargot entêté",
+                "publication_date": "1977-01-01",
+                "summary": "Un fonctionnaire chargé de la dératisation d'une ville."
+            }
+        ]
+    },
+    {
+        "firstname": "Yasmina",
+        "lastname": "Khadra",
+        "birthdate": "1955-01-10",
+        "email": "yasmina.khadra@example.com",
+        "books": [
+            {
+                "title": "Morituri",
+                "publication_date": "1997-01-01",
+                "summary": "Le commissaire Llob enquête à Alger pendant la décennie noire."
+            },
+            {
+                "title": "Les Hirondelles de Kaboul",
+                "publication_date": "2002-01-01",
+                "summary": "Deux couples à Kaboul sous le régime des talibans."
+            },
+            {
+                "title": "L'Attentat",
+                "publication_date": "2005-01-01",
+                "summary": "Un chirurgien découvre que sa femme est l'auteure d'un attentat-suicide."
+            },
+            {
+                "title": "Ce que le jour doit à la nuit",
+                "publication_date": "2008-01-01",
+                "summary": "Younes, jeune Algérien élevé par son oncle à Oran, pendant la colonisation."
+            }
+        ]
+    },
+    {
+        "firstname": "Boualem",
+        "lastname": "Sansal",
+        "birthdate": "1949-10-15",
+        "email": "boualem.sansal@example.com",
+        "books": [
+            {
+                "title": "Le Serment des barbares",
+                "publication_date": "1999-01-01",
+                "summary": "Un policier enquête sur deux meurtres dans l'Algérie des années 1990."
+            },
+            {
+                "title": "Le Village de l'Allemand",
+                "publication_date": "2008-01-01",
+                "summary": "Deux frères découvrent que leur père, ancien nazi, était devenu un héros de la guerre d'Algérie."
+            },
+            {
+                "title": "2084 : la fin du monde",
+                "publication_date": "2015-01-01",
+                "summary": "Dystopie sur un empire totalitaire religieux."
+            }
+        ]
+    },
+    {
+        "firstname": "Fouad",
+        "lastname": "Laroui",
+        "birthdate": "1958-01-01",
+        "email": "fouad.laroui@example.com",
+        "books": [
+            {
+                "title": "Les Dents du topographe",
+                "publication_date": "1996-01-01"
+            },
+            {
+                "title": "Une année chez les Français",
+                "publication_date": "2010-01-01",
+                "summary": "Un jeune Marocain découvre le lycée français de Casablanca dans les années 1960."
+            },
+            {
+                "title": "L'Étrange Affaire du pantalon de Dassoukine",
+                "publication_date": "2012-01-01",
+                "summary": "Recueil de nouvelles humoristiques."
+            }
+        ]
+    },
+    {
+        "firstname": "Abdelkébir",
+        "lastname": "Khatibi",
+        "birthdate": "1938-02-11",
+        "email": "abdelkebir.khatibi@example.com",
+        "books": [
+            {
+                "title": "La Mémoire tatouée",
+                "publication_date": "1971-01-01",
+                "summary": "Autobiographie d'un enfant marocain entre deux langues."
+            },
+            {
+                "title": "Amour bilingue",
+                "publication_date": "1983-01-01",
+                "summary": "Récit sur l'amour et le bilinguisme."
+            }
+        ]
+    },
+    {
+        "firstname": "Hisham",
+        "lastname": "Matar",
+        "birthdate": "1970-01-01",
+        "email": "hisham.matar@example.com",
+        "books": [
+            {
+                "title": "In the Country of Men",
+                "publication_date": "2006-01-01",
+                "summary": "Suleiman, enfant à Tripoli, assiste à la répression du régime de Kadhafi."
+            },
+            {
+                "title": "Anatomy of a Disappearance",
+                "publication_date": "2011-01-01",
+                "summary": "Nuri recherche son père, opposant politique enlevé."
+            },
+            {
+                "title": "The Return",
+                "publication_date": "2016-01-01",
+                "summary": "Le retour de l'auteur en Libye à la recherche de son père disparu."
+            },
+            {
+                "title": "My Friends",
+                "publication_date": "2024-01-01",
+                "summary": "L'amitié de trois exilés libyens à Londres."
+            }
+        ]
+    },
+    {
+        "firstname": "Es'kia",
+        "lastname": "Mphahlele",
+        "birthdate": "1919-12-17",
+        "email": "eskia.mphahlele@example.com",
+        "books": [
+            {
+                "title": "Down Second Avenue",
+                "publication_date": "1959-01-01",
+                "summary": "Autobiographie d'une enfance à Pretoria."
+            },
+            {
+                "title": "The Wanderers",
+                "publication_date": "1971-01-01"
+            },
+            {
+                "title": "Chirundu",
+                "publication_date": "1979-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "André",
+        "lastname": "Brink",
+        "birthdate": "1935-05-29",
+        "email": "andre.brink@example.com",
+        "books": [
+            {
+                "title": "An Instant in the Wind",
+                "publication_date": "1975-01-01",
+                "summary": "Une Européenne et un esclave en fuite traversent ensemble l'Afrique du Sud au XVIIIe siècle."
+            },
+            {
+                "title": "Rumours of Rain",
+                "publication_date": "1978-01-01"
+            },
+            {
+                "title": "A Dry White Season",
+                "publication_date": "1979-01-01",
+                "summary": "Un professeur afrikaner enquête sur la mort d'un homme noir détenu par la police."
+            }
+        ]
+    },
+    {
+        "firstname": "NoViolet",
+        "lastname": "Bulawayo",
+        "birthdate": "1981-10-12",
+        "email": "noviolet.bulawayo@example.com",
+        "books": [
+            {
+                "title": "We Need New Names",
+                "publication_date": "2013-01-01",
+                "summary": "Darling, fillette d'un bidonville zimbabwéen, émigre aux États-Unis."
+            },
+            {
+                "title": "Glory",
+                "publication_date": "2022-01-01",
+                "summary": "Fable animalière sur la chute d'un vieux dictateur."
+            }
+        ]
+    },
+    {
+        "firstname": "Paulina",
+        "lastname": "Chiziane",
+        "birthdate": "1955-06-04",
+        "email": "paulina.chiziane@example.com",
+        "books": [
+            {
+                "title": "Balada de Amor ao Vento",
+                "publication_date": "1990-01-01",
+                "summary": "Premier roman publié par une femme au Mozambique : une histoire d'amour contrariée."
+            },
+            {
+                "title": "Niketche",
+                "publication_date": "2002-01-01",
+                "summary": "Rami découvre que son mari a plusieurs autres femmes et décide de les rencontrer."
+            },
+            {
+                "title": "O Alegre Canto da Perdiz",
+                "publication_date": "2008-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Ondjaki",
+        "lastname": "(Ndalu de Almeida)",
+        "birthdate": "1977-07-05",
+        "email": "ondjaki@example.com",
+        "books": [
+            {
+                "title": "Bom Dia Camaradas",
+                "publication_date": "2001-01-01",
+                "summary": "L'enfance d'un garçon à Luanda dans les années 1980."
+            },
+            {
+                "title": "AvóDezanove e o Segredo do Soviético",
+                "publication_date": "2008-01-01"
+            },
+            {
+                "title": "Os Transparentes",
+                "publication_date": "2012-01-01",
+                "summary": "Les habitants d'un immeuble de Luanda, dont un homme qui devient transparent."
+            }
+        ]
+    },
+    {
+        "firstname": "Ananda",
+        "lastname": "Devi",
+        "birthdate": "1957-03-23",
+        "email": "ananda.devi@example.com",
+        "books": [
+            {
+                "title": "Pagli",
+                "publication_date": "2001-01-01",
+                "summary": "Daya, mariée de force à Maurice, aime un pêcheur."
+            },
+            {
+                "title": "Ève de ses décombres",
+                "publication_date": "2006-01-01",
+                "summary": "Quatre adolescents d'un quartier pauvre de Port-Louis."
+            },
+            {
+                "title": "Le Sari vert",
+                "publication_date": "2009-01-01",
+                "summary": "Un vieux médecin mourant revient sur sa vie de tyran familial."
+            }
+        ]
+    },
+    {
+        "firstname": "Nathacha",
+        "lastname": "Appanah",
+        "birthdate": "1973-01-01",
+        "email": "nathacha.appanah@example.com",
+        "books": [
+            {
+                "title": "Les Rochers de Poudre d'Or",
+                "publication_date": "2003-01-01",
+                "summary": "Des travailleurs indiens engagés partent pour l'île Maurice au XIXe siècle."
+            },
+            {
+                "title": "Le Dernier Frère",
+                "publication_date": "2007-01-01",
+                "summary": "Raj, enfant mauricien, se lie avec un jeune juif détenu sur l'île pendant la guerre."
+            },
+            {
+                "title": "Tropique de la violence",
+                "publication_date": "2016-01-01",
+                "summary": "Des adolescents livrés à eux-mêmes à Mayotte."
+            }
+        ]
+    },
+    {
+        "firstname": "V. Y.",
+        "lastname": "Mudimbe",
+        "birthdate": "1941-12-08",
+        "email": "vy.mudimbe@example.com",
+        "books": [
+            {
+                "title": "Entre les eaux",
+                "publication_date": "1973-01-01",
+                "summary": "Un prêtre congolais rejoint la rébellion armée."
+            },
+            {
+                "title": "L'Odeur du père",
+                "publication_date": "1982-01-01",
+                "summary": "Essai."
+            },
+            {
+                "title": "The Invention of Africa",
+                "publication_date": "1988-01-01",
+                "summary": "Essai sur la construction de l'Afrique dans les savoirs occidentaux."
+            }
+        ]
+    },
+    {
+        "firstname": "Damon",
+        "lastname": "Galgut",
+        "birthdate": "1963-11-12",
+        "email": "damon.galgut@example.com",
+        "books": [
+            {
+                "title": "The Good Doctor",
+                "publication_date": "2003-01-01",
+                "summary": "Deux médecins dans un hôpital délaissé d'un ancien bantoustan."
+            },
+            {
+                "title": "In a Strange Room",
+                "publication_date": "2010-01-01",
+                "summary": "Trois voyages d'un homme en Afrique et en Inde."
+            },
+            {
+                "title": "The Promise",
+                "publication_date": "2021-01-01",
+                "summary": "Une famille blanche sud-africaine et une promesse jamais tenue à sa domestique noire."
+            }
+        ]
+    },
+    {
+        "firstname": "Sindiwe",
+        "lastname": "Magona",
+        "birthdate": "1943-08-23",
+        "email": "sindiwe.magona@example.com",
+        "books": [
+            {
+                "title": "To My Children's Children",
+                "publication_date": "1990-01-01",
+                "summary": "Autobiographie de l'enfance de l'autrice en Afrique du Sud."
+            },
+            {
+                "title": "Mother to Mother",
+                "publication_date": "1998-01-01",
+                "summary": "La mère d'un meurtrier s'adresse à la mère de la victime, une étudiante américaine."
+            }
+        ]
+    },
+    {
+        "firstname": "Petina",
+        "lastname": "Gappah",
+        "birthdate": "1971-01-01",
+        "email": "petina.gappah@example.com",
+        "books": [
+            {
+                "title": "An Elegy for Easterly",
+                "publication_date": "2009-01-01",
+                "summary": "Recueil de nouvelles sur le Zimbabwe."
+            },
+            {
+                "title": "The Book of Memory",
+                "publication_date": "2015-01-01",
+                "summary": "Une femme albinos condamnée à mort à Harare raconte son histoire."
+            },
+            {
+                "title": "Out of Darkness, Shining Light",
+                "publication_date": "2019-01-01",
+                "summary": "Le transport du corps de l'explorateur Livingstone par ses compagnons africains."
+            }
+        ]
+    },
+    {
+        "firstname": "Germano",
+        "lastname": "Almeida",
+        "birthdate": "1945-07-31",
+        "email": "germano.almeida@example.com",
+        "books": [
+            {
+                "title": "O Testamento do Sr. Napumoceno da Silva Araújo",
+                "publication_date": "1989-01-01",
+                "summary": "Le testament d'un riche commerçant de Mindelo révèle sa vie secrète."
+            },
+            {
+                "title": "Os Dois Irmãos",
+                "publication_date": "1995-01-01"
+            }
+        ]
+    },
+    {
+        "firstname": "Chenjerai",
+        "lastname": "Hove",
+        "birthdate": "1956-02-09",
+        "email": "chenjerai.hove@example.com",
+        "books": [
+            {
+                "title": "Bones",
+                "publication_date": "1988-01-01",
+                "summary": "Marita, ouvrière agricole, recherche son fils parti combattre."
+            },
+            {
+                "title": "Shadows",
+                "publication_date": "1991-01-01"
+            },
+            {
+                "title": "Ancestors",
+                "publication_date": "1996-01-01"
+            }
+        ]
+    }
+]

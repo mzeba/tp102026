@@ -15,7 +15,10 @@
         <dd><a href="mailto:{{ author.email }}">{{ author.email }}</a></dd>
     </dl>
 
-    <h2>Livres ({{ books|length }})</h2>
+    <div class="page-header section-header">
+        <h2>Livres ({{ books|length }})</h2>
+        <a href="{% url 'book_create' %}?author={{ author.pk }}" class="btn">+ Ajouter un livre</a>
+    </div>
     {% if books %}
         <div class="grid">
             {% for book in books %}

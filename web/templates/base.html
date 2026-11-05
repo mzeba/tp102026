@@ -13,14 +13,18 @@
         <div class="container">
             <a href="{% url 'home' %}" class="brand">📚 Bibliothèque</a>
             <nav class="nav">
-                <a href="{% url 'home' %}" {% if current == 'home' or current == 'author_detail' %}class="active"{% endif %}>Auteurs</a>
-                <a href="{% url 'book_list' %}" {% if current == 'book_list' or current == 'book_detail' %}class="active"{% endif %}>Livres</a>
+                <a href="{% url 'home' %}" {% if current == 'home' or current == 'author_detail' or current == 'author_create' %}class="active"{% endif %}>Auteurs</a>
+                <a href="{% url 'book_list' %}" {% if current == 'book_list' or current == 'book_detail' or current == 'book_create' %}class="active"{% endif %}>Livres</a>
             </nav>
         </div>
     </header>
     {% endwith %}
 
     <main class="container">
+        {% for message in messages %}
+            <p class="message message-{{ message.tags }}" role="status">{{ message }}</p>
+        {% endfor %}
+
         {% block content %}{% endblock %}
     </main>
 

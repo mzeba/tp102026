@@ -3,8 +3,16 @@
 {% block title %}Livres{% endblock %}
 
 {% block content %}
-    <h1>Livres</h1>
-    <p class="subtitle">{{ books|length }} livre{{ books|length|pluralize }}</p>
+    <div class="page-header">
+        <div>
+            <h1>Livres</h1>
+            <p class="subtitle">
+                {{ page_obj.paginator.count }} livre{{ page_obj.paginator.count|pluralize }}
+                {% if page_obj.paginator.num_pages > 1 %}· page {{ page_obj.number }} sur {{ page_obj.paginator.num_pages }}{% endif %}
+            </p>
+        </div>
+        <a href="{% url 'book_create' %}" class="btn">+ Ajouter un livre</a>
+    </div>
 
     <form method="get" class="toolbar">
         <input type="search" name="q" value="{{ query }}" placeholder="Titre, auteur ou ISBN…" aria-label="Rechercher un livre">
@@ -22,6 +30,7 @@
                 </a>
             {% endfor %}
         </div>
+        {% include "pagination.html" %}
     {% else %}
         <p class="empty">Aucun livre trouvé.</p>
     {% endif %}

@@ -3,8 +3,16 @@
 {% block title %}Auteurs{% endblock %}
 
 {% block content %}
-    <h1>Auteurs</h1>
-    <p class="subtitle">{{ authors|length }} auteur{{ authors|length|pluralize }}</p>
+    <div class="page-header">
+        <div>
+            <h1>Auteurs</h1>
+            <p class="subtitle">
+                {{ page_obj.paginator.count }} auteur{{ page_obj.paginator.count|pluralize }}
+                {% if page_obj.paginator.num_pages > 1 %}· page {{ page_obj.number }} sur {{ page_obj.paginator.num_pages }}{% endif %}
+            </p>
+        </div>
+        <a href="{% url 'author_create' %}" class="btn">+ Ajouter un auteur</a>
+    </div>
 
     <form method="get" class="toolbar" role="search" aria-label="Rechercher un auteur">
         <input type="search" name="q" value="{{ query }}" placeholder="Rechercher un auteur…" aria-label="Rechercher un auteur">
@@ -22,6 +30,7 @@
                 </a>
             {% endfor %}
         </div>
+        {% include "pagination.html" %}
     {% else %}
         <p class="empty">Aucun auteur trouvé.</p>
     {% endif %}
